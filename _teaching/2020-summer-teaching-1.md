@@ -2,7 +2,7 @@
 title: "Advanced language programming training"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2023-autum-teaching-1
+permalink: /teaching/2020-summer-teaching-1
 venue: "Nankai University, Department of Software Engineering"
 date: 2020-07-01
 location: "Tianjin, China"

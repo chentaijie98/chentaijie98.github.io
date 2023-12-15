@@ -19,7 +19,7 @@ Education
 * M.S. in Computer Science, The University of Hong Kong, 2022
 * Ph.D in Traffic and Transportation Engineering, The University of Hong Kong, 2027 (expected)
 
-Work experience
+Work experience and Intership
 ======
 * Jan. to March 2023: Algorithm Engineer Intern
   * Huawei 2012 Laboratory Riemann Laboratory
@@ -39,8 +39,11 @@ Work experience
   * Duties included: Develop simulators.
   * Supervisor: Dr. Jintao Ke
 
-Publications
+News
 ======
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- 12/2023: I attended [the 27th International Conference of Hong Kong Society for Transportation Studies](http://www.hksts.org/conf.htm) and made a poster presentation.
+- 04/2023: I am current a Ph.D. student at HKU, hope that I can enjoy this journey.
+
+
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=linXdGUW0uzldsSGTUU1wkce_m9BE5xmEZBiDgTGM9w'></script>

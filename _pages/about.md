@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-Taijie CHEN is a Ph.D. student in traffic and transportation engineering at The University of Hong Kong. He received his bachelor’s degrees in Software Engineering from Nankai University in 2021 and earned his master’s degree in Computer Science from the University of Hong Kong in 2022. His previous research interests mainly include the fields of reinforcement learning and deep learning. He is now looking for new opportunities in smart city and intelligent transportation system.
+Taijie CHEN is a Ph.D. student in traffic and transportation engineering at the University of Hong Kong supervised by [Dr. Jintao Ke](https://sites.google.com/view/kejintao) and [Prof. W. Y. Szeto](https://www.civil.hku.hk/ceszeto/). Before joining HKU, he worked as a Research Assistant supervised by [Dr. Jintao Ke](https://sites.google.com/view/kejintao) and [Prof. Hai Yang](https://cehyang.people.ust.hk/). He received his bachelor’s degrees in Software Engineering from Nankai University in 2021 and earned his master’s degree in Computer Science from the University of Hong Kong in 2022. His previous research interests mainly include the fields of reinforcement learning and deep learning. He is now looking for new opportunities in smart city and intelligent transportation system.
 
 
 Education

@@ -12,9 +12,9 @@ Member of the [Smart Mobility Lab at HKU](https://sites.google.com/view/kejintao
 
 ## Working Papers
 1. Feng, S., **Chen, T.**, Zhang, Y., Ke, J.***, & Yang, H. (2023). "A multi-functional simulation platform for on-demand ride service". Under Review by IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS, [preprint](https://arxiv.org/pdf/2303.12336.pdf), [demo](https://www.youtube.com/watch?v=q25L7lr77ms).
-2. **Chen, T.**, Shen, Z., Feng, S.***, Yang, L., & Ke, J. (2023). "Dynamic Adjustment of Matching Radii under the Broadcasting Mode: A Novel Multitask Learning Strategy and Temporal Modeling Approach". Under Review by Transportation Research Part C, [preprint](https://arxiv.org/pdf/2312.05576.pdf).
+2. **Chen, T.**, Shen, Z., Feng, S.*, Yang, L., & Ke, J. (2023). "Dynamic Adjustment of Matching Radii under the Broadcasting Mode: A Novel Multitask Learning Strategy and Temporal Modeling Approach". Under Review by Transportation Research Part C, [preprint](https://arxiv.org/pdf/2312.05576.pdf).
 3. Tan, W., Chen, D., Xue, J., Wang, Z., & **Chen, T.*** (2023). "Teaching-Inspired Prompting: A Novel Approach for Enhancing Reasoning in Large Language Models".
-4. **Chen, T.**, Liang, J., Zhao, Y.***, Zhou, J., & Ke, J. (2024). "To grab or not to grab? Revealing determinants of drivers’ willingness to grab orders under the broadcasting mode". <u>Preparing</u>.
+4. **Chen, T.**, Liang, J., Zhao, Y.*, Zhou, J., & Ke, J. (2024). "To grab or not to grab? Revealing determinants of drivers’ willingness to grab orders under the broadcasting mode". <u>Preparing</u>.
 
 ***refers to corresponding author**.
 

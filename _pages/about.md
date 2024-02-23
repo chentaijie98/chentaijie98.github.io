@@ -46,4 +46,4 @@ News
 
 
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=y1tWuvjXlHEN_pGrOOwF5zf6X-D_0uTSq2hhCRSr3gQ&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=y1tWuvjXlHEN_pGrOOwF5zf6X-D_0uTSq2hhCRSr3gQ'></script>

@@ -46,4 +46,5 @@ News
 
 
 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=y1tWuvjXlHEN_pGrOOwF5zf6X-D_0uTSq2hhCRSr3gQ'></script>
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2Fn4m2hY1SgpaARN_eQNld7R4iIDB0cu_F-vPYzASgg&cl=ffffff&w=a"></script>

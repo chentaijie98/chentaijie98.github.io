@@ -47,4 +47,4 @@ News
 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2Fn4m2hY1SgpaARN_eQNld7R4iIDB0cu_F-vPYzASgg&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2Fn4m2hY1SgpaARN_eQNld7R4iIDB0cu_F-vPYzASgg&cl=ffffff&t=tt&w=a"></script>

@@ -12,8 +12,8 @@ author_profile: true
 
 1. Feng, S., **Chen, T.**, Zhang, Y., Ke, J.*, Zheng, Z., & Yang, H. (2024). A multi-functional simulation platform for on-demand ride service. Communications in Transportation Research. [[link](https://arxiv.org/pdf/2303.12336.pdf)], [[demo](https://www.youtube.com/watch?v=q25L7lr77ms)], [[code](https://github.com/HKU-Smart-Mobility-Lab/Transportation_Simulator)]. (JCR-Q1, IF=12.5)
 <p>    
-<!-- <img  src="https://github.com/chentaijie98/chentaijie98.github.io/blob/master/images/simulation framework.jpg"  width="400"  align="left" /> -->
-![framework](https://github.com/chentaijie98/chentaijie98.github.io/blob/master/images/framework.png)
+<img  src="https://github.com/chentaijie98/chentaijie98.github.io/blob/master/images/framework.jpg"  width="400"  align="left" />
+<!-- ![framework](https://github.com/chentaijie98/chentaijie98.github.io/blob/master/images/framework.png) -->
 We propose a novel simulation platform for ride-sourcing systems on real transportation networks. It provides a few accessible portals to train and test various optimization algorithms, especially reinforcement learning algorithms, for a variety of tasks, including on-demand matching, idle vehicle repositioning, and dynamic pricing. Evaluated on real-world data-based experiments, the simulator is demonstrated to be an efficient and effective test bed for various tasks related to on-demand ride service operations.
 </p>
 

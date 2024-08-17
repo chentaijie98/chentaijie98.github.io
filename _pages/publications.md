@@ -10,6 +10,8 @@ author_profile: true
 
 ## Journal Papers
 
+<hr style="height:2px;border-width:0;color:gray;background-color:gray" />
+
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
 
@@ -40,9 +42,10 @@ Feng, S., <strong>Chen, T.</strong>, Zhang, Y., Ke, J.<sup>✉</sup>, Zheng, Z.,
 
 
 ## Conference Papers
-
+<hr style="height:2px;border-width:0;color:gray;background-color:gray" />
 
 ## Software copyright
+<hr style="height:2px;border-width:0;color:gray;background-color:gray" />
 1. Teaching resource network management system based on knowledge graph（Registration No.：2021SR0651132).
 2. Teaching resource network making system based on knowledge graph（Registration No.：2021SR0651080).
 3. Teaching resource network display system based on knowledge graph（Registration No.：2021SR0651130).

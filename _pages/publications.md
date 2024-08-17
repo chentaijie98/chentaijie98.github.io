@@ -10,18 +10,34 @@ author_profile: true
 
 ## Journal Papers
 
-1. Feng, S., **Chen, T.**, Zhang, Y., Ke, J.*, Zheng, Z., & Yang, H. (2024). A multi-functional simulation platform for on-demand ride service. Communications in Transportation Research. [[link](https://arxiv.org/pdf/2303.12336.pdf)], [[demo](https://www.youtube.com/watch?v=q25L7lr77ms)], [[code](https://github.com/HKU-Smart-Mobility-Lab/Transportation_Simulator)]. (JCR-Q1, IF=12.5)
-<div style="display: flex; align-items: flex-start;">
-    <img src="https://raw.githubusercontent.com/chentaijie98/chentaijie98.github.io/master/images/framework.png" style="width: 100px; border: 2px solid black; margin-right: 20px;">
-    <p>
-        We propose a novel simulation platform for ride-sourcing systems on real transportation networks. It provides a few accessible portals to train and test various optimization algorithms, especially reinforcement learning algorithms, for a variety of tasks, including on-demand matching, idle vehicle repositioning, and dynamic pricing. Evaluated on real-world data-based experiments, the simulator is demonstrated to be an efficient and effective test bed for various tasks related to on-demand ride service operations.
-    </p>
-</div>
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+
+<tr onmouseout="font_stop()" onmouseover="font_start()" bgcolor="">
+<td style="padding:0px;padding-bottom: 0px;width:30%;vertical-align:middle">
+<img src="/images/research/feng2023multi.png" width="300px">
+</td>
+<td style="padding:10px;padding-bottom: 0px;width:70%;vertical-align:top">
+<papertitle>A multi-functional simulation platform for on-demand ride service operations.</papertitle>
+<em>Communications in Transportation Research (CTR)</em>, 2024. (JCR-Q1, IF: 12.5)
+<br>
+Feng, S., <strong>Chen, T.</strong>, Zhang, Y., Ke, J.<sup>✉</sup>, Zheng, Z., & Yang, H.
+<br>
+[<a href="https://arxiv.org/pdf/2303.12336"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF</a>]
+[<a href="https://github.com/HKU-Smart-Mobility-Lab/Transportation_Simulator"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> CODE</a>]
+[<a href="https://youtu.be/q25L7lr77ms"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> VIDEO</a>]
+<br>
+<p></p>
+</td>
+</tr>
+
+
+</tbody>
+</table>
 
 
 
 
-2. 梁思立, 姜桂飞, **陈泰劼**, 邓益超, 战瑀璠, & 张玉志. (2022). [基于蒙特卡洛树搜索的通用博弈系统的构建与优化研究](http://www.jfdc.cnic.cn/CN/abstract/abstract226.shtml). 数据与计算发展前沿, 4(3), 66-77. [[link](http://www.jfdc.cnic.cn/CN/abstract/abstract226.shtml)] (CCF-T3)
 
 ## Conference Papers
 

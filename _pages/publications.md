@@ -20,8 +20,10 @@ author_profile: true
 <img src="/images/research/feng2023multi.png" width="300px">
 </td>
 <td style="padding:10px;padding-bottom: 0px;width:70%;vertical-align:top">
-<papertitle>A multi-functional simulation platform for on-demand ride service operations.</papertitle>
-<em>Communications in Transportation Research (CTR)</em>, 2024. (JCR-Q1, IF: 12.5)
+<font size=3>  
+A multi-functional simulation platform for on-demand ride service operations.
+Communications in Transportation Research (CTR), 2024. (JCR-Q1, IF: 12.5)
+</font>
 <br>
 Feng, S., <strong>Chen, T.</strong>, Zhang, Y., Ke, J.<sup>✉</sup>, Zheng, Z., & Yang, H.
 <br>

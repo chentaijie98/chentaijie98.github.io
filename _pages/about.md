@@ -39,6 +39,13 @@ Work experience and Intership
   * Duties included: Develop simulators.
   * Supervisor: Dr. Jintao Ke
 
+Professional Services
+======
+- Reviewer of Transportation Research Board Annual meeting.
+- Student helper of the 27th International Conference of Hong Kong Society For Transportation Studies.
+- Student helper of the 9th International Symposium on Transport Network Resilience.
+
+
 News
 ======
 - 12/2023: I attended [the 27th International Conference of Hong Kong Society for Transportation Studies](http://www.hksts.org/conf.htm) and made a poster presentation.

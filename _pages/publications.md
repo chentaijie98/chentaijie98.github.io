@@ -17,7 +17,7 @@ author_profile: true
 
 <tr onmouseout="font_stop()" onmouseover="font_start()" bgcolor="">
 <td style="padding:0px;padding-bottom: 0px;width:30%;vertical-align:middle">
-<img src="/images/research/feng2023multi.jpg" width="300px">
+<img src="/images/research/feng2023multi.png" width="300px">
 </td>
 <td style="padding:10px;padding-bottom: 0px;width:70%;vertical-align:top">
 <font size=3>  
@@ -60,13 +60,11 @@ Dynamic Matching Radius Decision Model for On-Demand Ride Services: A Deep Multi
 
 ## Conference Papers
 <hr style="height:2px;border-width:0;color:gray;background-color:gray" />
+======
 - Chen T., Shen Z., Feng S., Ke J., 2024. TEB: A time series model for on-demand e-hailing matching in the broadcasting mode. Proceedings of the 28th International Conference of Hong Kong Society for Transportation Studies, HKSTS 2023: Transport and Equity, Hong Kong, December 11–12, 2023.
-
 - Chen, T., Liu, J., Feng, S., Ke, J. 2024. A Top-to-Bottom Reposition Method for Ride-hailing Platforms, Presented in the Conference in Emerging Technologies in Transportation Systems (TRC-30), Crete, Greece, September 2-4, 2024.
-
 - Chen T., Liu J., Hu Z., Feng S., Ke J., 2024. A Top-to-Bottom Reposition Method for Ride-hailing Platforms. Proceedings of the 28th International Conference of Hong Kong Society for Transportation Studies, HKSTS 2024: Transport and Equity, Hong Kong, December 9–10, 2024.
 - Chen T., Liang J., Zhao Y., Ke J., 2024. To grab or not to grab? Revealing determinants of drivers’ willingness to grab orders under the broadcasting mode. Proceedings of the 28th International Conference of Hong Kong Society for Transportation Studies, HKSTS 2024: Transport and Equity, Hong Kong, December 9–10, 2024.
-  
 - Chen, T., Liu, J., Feng, S., Ke, J. 2025. Enhancing Autonomous Mobility on Demand Systems: A Hierarchical Repositioning Approach Integrating Regional-level and Route-level Decision. Proceedings of the TRB Annual Meeting 2025, Washington, DC, USA, January 5–9, 2025.
 
 ## Software copyright

@@ -69,6 +69,7 @@ Dynamic Matching Radius Decision Model for On-Demand Ride Services: A Deep Multi
 
 ## Software copyright
 <hr style="height:2px;border-width:0;color:gray;background-color:gray" />
+
 1. Teaching resource network management system based on knowledge graph（Registration No.：2021SR0651132).
 
 2. Teaching resource network making system based on knowledge graph（Registration No.：2021SR0651080).

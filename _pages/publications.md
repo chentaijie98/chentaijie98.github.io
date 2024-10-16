@@ -17,7 +17,7 @@ author_profile: true
 
 <tr onmouseout="font_stop()" onmouseover="font_start()" bgcolor="">
     <td style="padding: 0px; padding-bottom: 0px; width: 30%; vertical-align: middle;">
-        <img src="/images/research/feng2023multi.png" style="max-height: 200px; width: auto; display: block;">
+        <img src="/images/research/feng2023multi.png" width="200" height="200">
     </td>
     <td style="padding: 10px; padding-bottom: 0px; width: 70%; vertical-align: top;">
         <font size="3">  
@@ -37,7 +37,7 @@ author_profile: true
 
 <tr onmouseout="font_stop()" onmouseover="font_start()" bgcolor="">
   <td style="padding:0px;padding-bottom: 0px;width:30%;vertical-align:middle">
-    <img src="/images/research/order-matching.jpg" style="max-height: 200px; width: auto; display: block;">
+    <img src="/images/research/order-matching.jpg" width="200" height="200">
   </td>
   <td style="padding:10px;padding-bottom: 0px;width:70%;vertical-align:top">
     <font size=3>  

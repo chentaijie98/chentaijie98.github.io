@@ -16,42 +16,42 @@ author_profile: true
 
 
 <tr onmouseout="font_stop()" onmouseover="font_start()" bgcolor="">
-<td style="padding:0px;padding-bottom: 0px;width:30%;vertical-align:middle">
-<img src="/images/research/feng2023multi.png" width="300px">
-</td>
-<td style="padding:10px;padding-bottom: 0px;width:70%;vertical-align:top">
-<font size=3>  
-A multi-functional simulation platform for on-demand ride service operations.
-<em>Communications in Transportation Research (CTR)</em>, 2024. (JCR-Q1, IF: 12.5)
-</font>
-<br>
-Feng, S., <strong>Chen, T.</strong>, Zhang, Y., Ke, J.<sup>✉</sup>, Zheng, Z., & Yang, H.
-<br>
-[<a href="https://arxiv.org/pdf/2303.12336"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF</a>]
-[<a href="https://github.com/HKU-Smart-Mobility-Lab/Transportation_Simulator"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> CODE</a>]
-[<a href="https://youtu.be/q25L7lr77ms"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> VIDEO</a>]
-<br>
-<p></p>
-</td>
+    <td style="padding: 0px; padding-bottom: 0px; width: 30%; vertical-align: middle;">
+        <img src="/images/research/feng2023multi.png" style="max-height: 200px; width: auto; display: block;">
+    </td>
+    <td style="padding: 10px; padding-bottom: 0px; width: 70%; vertical-align: top;">
+        <font size="3">  
+            A multi-functional simulation platform for on-demand ride service operations.
+            <em>Communications in Transportation Research (CTR)</em>, 2024. (JCR-Q1, IF: 12.5)
+        </font>
+        <br>
+        Feng, S., <strong>Chen, T.</strong>, Zhang, Y., Ke, J.<sup>✉</sup>, Zheng, Z., & Yang, H.
+        <br>
+        [<a href="https://arxiv.org/pdf/2303.12336"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF</a>]
+        [<a href="https://github.com/HKU-Smart-Mobility-Lab/Transportation_Simulator"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> CODE</a>]
+        [<a href="https://youtu.be/q25L7lr77ms"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> VIDEO</a>]
+        <br>
+        <p></p>
+    </td>
 </tr>
 
 <tr onmouseout="font_stop()" onmouseover="font_start()" bgcolor="">
-<td style="padding:0px;padding-bottom: 0px;width:30%;vertical-align:middle">
-<img src="/images/research/order-matching.jpg" width="300px">
-</td>
-<td style="padding:10px;padding-bottom: 0px;width:70%;vertical-align:top">
-<font size=3>  
-Dynamic Matching Radius Decision Model for On-Demand Ride Services: A Deep Multi-Task Learning Approach.
-<em>Transportation Research Part E</em>, 2024. (JCR-Q1, SSCI-Q1, SCIE-Q1, IF: 8.3)
-</font>
-<br>
-<strong>Chen, T.</strong>, Shen, Z., Feng, S.<sup>✉</sup>, Yang L., Ke, J.
-<br>
-[<a href=""><i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF</a>]
-[<a href="https://github.com/HKU-Smart-Mobility-Lab/DL-MRD-Broadcasting"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> CODE</a>]
-<br>
-<p></p>
-</td>
+  <td style="padding:0px;padding-bottom: 0px;width:30%;vertical-align:middle">
+    <img src="/images/research/order-matching.jpg" style="max-height: 200px; width: auto; display: block;">
+  </td>
+  <td style="padding:10px;padding-bottom: 0px;width:70%;vertical-align:top">
+    <font size=3>  
+      Dynamic Matching Radius Decision Model for On-Demand Ride Services: A Deep Multi-Task Learning Approach.
+      <em>Transportation Research Part E</em>, 2024. (JCR-Q1, SSCI-Q1, SCIE-Q1, IF: 8.3)
+    </font>
+    <br>
+    <strong>Chen, T.</strong>, Shen, Z., Feng, S.<sup>✉</sup>, Yang L., Ke, J.
+    <br>
+    [<a href=""><i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF</a>]
+    [<a href="https://github.com/HKU-Smart-Mobility-Lab/DL-MRD-Broadcasting"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> CODE</a>]
+    <br>
+    <p></p>
+  </td>
 </tr>
 
 

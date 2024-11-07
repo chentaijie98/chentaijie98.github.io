@@ -48,6 +48,7 @@ Professional Services
 
 News
 ======
+- 11/2024 **Congrats**! Our paper "Teaching-Inspired Integrated Prompting Framework: A Novel Approach for Enhancing Reasoning in Large Language Models" has been accepted by the 31st International Conference on Computational Linguistics (COLING 2025).
 - 10/2024 **Congrats**! Our paper "Dynamic Matching Radius Decision Model for On-Demand Ride Services: A Deep Multi-Task Learning Approach" has been accepted by Transportation Research Part E.
 - 9/2024 Our article "Enhancing Autonomous Mobility on Demand Systems: A Hierarchical Repositioning Approach Integrating Regional-level and Route-level Decision" was presented at TRC-30 conference, Crete, Greece. [This paper will also be presented in HKSTS 2024 and TRBAM 2025]
 - 12/2023: I attended [the 27th International Conference of Hong Kong Society for Transportation Studies](http://www.hksts.org/conf.htm) and made a poster presentation.

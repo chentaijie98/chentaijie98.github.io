@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1e98cfd9-87cb-40f5-ae97-e2d60900beb1)---
+---
 layout: archive
 title: "Research"
 permalink: /research/

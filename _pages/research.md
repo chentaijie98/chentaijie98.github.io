@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/1e98cfd9-87cb-40f5-ae97-e2d60900beb1)---
 layout: archive
 title: "Research"
 permalink: /research/
@@ -18,6 +18,7 @@ Member of the [Smart Mobility Lab at HKU](https://sites.google.com/view/kejintao
 *refers to the corresponding author.
 
 ## Project
+1. （**PI**) Tianjin Innovation and Entrepreneurship Training Project, 201910055373, "Digital inheritance of intangible cultural heritage based on VR technology—taking Tianjin’s “Clay Figure Zhang” culture as an example", 1 Sep 2019 - 1 Sep 2024, RMB$ 10,000.
+2. （Core Member）CCF-DiDi GAIA 202410. "网约车场景下的时空供需调节问题研究". Sep 2024 - Sep 2025, RMB$ 250,000.
 
-1. (**Student Manager**) Smart Traffic Fund of Hong Kong SAR Government, PSRI/29/2201/PR, “Development of a Simulation Platform and Artificial Intelligent Algorithms for Optimising Operation and Management of Taxi E-hailing Services”, 31 Mar 2023 – 30 Sep 2024, HK$ 3,221,020.
-2. （**PI**) Tianjin Innovation and Entrepreneurship Training Project, 201910055373, "Digital inheritance of intangible cultural heritage based on VR technology—taking Tianjin’s “Clay Figure Zhang” culture as an example", 1 Sep 2019 - 1 Sep 2024, RMB$ 10,000.
+

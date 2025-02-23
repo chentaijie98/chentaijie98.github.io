@@ -61,11 +61,13 @@ author_profile: true
 
 ## Conference Papers
 <hr style="height:2px;border-width:0;color:gray;background-color:gray" />
-- Chen T., Shen Z., Feng S., Ke J., 2023. TEB: A time series model for on-demand e-hailing matching in the broadcasting mode. Proceedings of the 28th International Conference of Hong Kong Society for Transportation Studies, HKSTS 2023: Transport and Equity, Hong Kong, December 11–12, 2023.
-- Chen, T., Liu, J., Feng, S., Ke, J. 2024. A Top-to-Bottom Reposition Method for Ride-hailing Platforms, Presented in the Conference in Emerging Technologies in Transportation Systems (TRC-30), Crete, Greece, September 2-4, 2024.
-- Chen T., Liu J., Hu Z., Feng S., Ke J., 2024. A Top-to-Bottom Reposition Method for Ride-hailing Platforms. Proceedings of the 28th International Conference of Hong Kong Society for Transportation Studies, HKSTS 2024: Transport and Equity, Hong Kong, December 9–10, 2024.
-- Chen T., Liang J., Zhao Y., Ke J., 2024. To grab or not to grab? Revealing determinants of drivers’ willingness to grab orders under the broadcasting mode. Proceedings of the 28th International Conference of Hong Kong Society for Transportation Studies, HKSTS 2024: Transport and Equity, Hong Kong, December 9–10, 2024.
-- Chen, T., Liu, J., Feng, S., Ke, J. 2025. Enhancing Autonomous Mobility on Demand Systems: A Hierarchical Repositioning Approach Integrating Regional-level and Route-level Decision. Proceedings of the TRB Annual Meeting 2025, Washington, DC, USA, January 5–9, 2025.
+- Tan, W., Chen, D., Xue, J., Wang, Z., <strong>Chen, T.*</strong>. Teaching-Inspired Integrated Prompting Framework: A Novel Approach for Enhancing Reasoning in Large Language Models. In Proceedings of the 31st International Conference on Computational Linguistics: Industry Track (pp. 827-839).
+- <strong>Chen, T.</strong>, Liu, J., Feng, S.*, Ke, J. 2025. Enhancing Autonomous Mobility on Demand Systems: A Hierarchical Repositioning Approach Integrating Regional-level and Route-level Decision. Proceedings of the TRB Annual Meeting 2025, Washington, DC, USA, January 5–9, 2025.
+- <strong>Chen, T.*</strong>, Liu, J., Feng, S., Ke, J. 2024. A Top-to-Bottom Reposition Method for Ride-hailing Platforms, Presented in the Conference in Emerging Technologies in Transportation Systems (TRC-30), Crete, Greece, September 2-4, 2024.
+- <strong>Chen T.*</strong>, Liu J., Hu Z., Feng S., Ke J., 2024. A Top-to-Bottom Reposition Method for Ride-hailing Platforms. Proceedings of the 28th International Conference of Hong Kong Society for Transportation Studies, HKSTS 2024: Transport and Equity, Hong Kong, December 9–10, 2024.
+- <strong>Chen T.*</strong>, Liang J., Zhao Y., Ke J., 2024. To grab or not to grab? Revealing determinants of drivers’ willingness to grab orders under the broadcasting mode. Proceedings of the 28th International Conference of Hong Kong Society for Transportation Studies, HKSTS 2024: Transport and Equity, Hong Kong, December 9–10, 2024.
+- <strong>Chen T.*</strong>, Shen Z., Feng S., Ke J., 2023. TEB: A time series model for on-demand e-hailing matching in the broadcasting mode. Proceedings of the 28th International Conference of Hong Kong Society for Transportation Studies, HKSTS 2023: Transport and Equity, Hong Kong, December 11–12, 2023.
+
 
 ## Software copyright
 <hr style="height:2px;border-width:0;color:gray;background-color:gray" />

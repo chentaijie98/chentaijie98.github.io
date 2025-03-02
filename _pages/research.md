@@ -12,8 +12,8 @@ Member of the [Smart Mobility Lab at HKU](https://sites.google.com/view/kejintao
 
 ## Working Papers
 
-1. **Chen, T.**, Liang, J., Zhao, Y.*, & Ke, J. (2024). "To grab or not to grab? Revealing determinants of drivers’ willingness to grab orders under the broadcasting mode". <u>Under Review</u>.
-2. **Chen, T.**, Liu, J., Feng, S.*, & Ke, J. (2024). "Enhancing Autonomous Mobility on Demand Systems: A Hierarchical Repositioning Approach Integrating Regional-level and Route-level Decision". <u>Preparing</u>.
+1. **Chen, T.**, Liang, J., Zhao, Y.*, & Ke, J. (2024). "To grab or not to grab? Revealing determinants of drivers’ willingness to grab orders under the broadcasting mode". <u>Major Revision</u>.
+2. **Chen, T.**, Liu, J., Feng, S.*, & Ke, J. (2024). "Enhancing Autonomous Mobility on Demand Systems: A Hierarchical Repositioning Approach Integrating Regional-level and Route-level Decision". <u>Major Revision</u>.
 
 *refers to the corresponding author.
 

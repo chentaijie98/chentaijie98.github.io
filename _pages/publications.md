@@ -5,75 +5,114 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-
+# Publications
 
 ## Journal Papers
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray" />
-### 2025
-<hr style="height:1px;border-width:0;color:gray;background-color:gray" />
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-<tr onmouseout="font_stop()" onmouseover="font_start()" bgcolor="">
-  <td style="padding:0px;padding-bottom: 0px;width:30%;vertical-align:middle">
-    <img src="/images/research/order-matching.jpg" style="width: 400px; height: 200px;">
+<hr style="height:2px;border-width:0;background-color:#d3d3d3;" />
+
+### **2025**
+<table style="width:100%;border:0px;border-spacing:10px;margin:auto;">
+<tbody>
+<tr>
+  <td style="width:30%;vertical-align:middle;text-align:center;">
+    <img src="/images/research/order-matching.jpg" style="width:100%;max-width:300px;border-radius:8px;">
   </td>
-  <td style="padding:10px;padding-bottom: 0px;width:70%;vertical-align:top">
-    <font size=3>  
-      Dynamic Matching Radius Decision Model for On-Demand Ride Services: A Deep Multi-Task Learning Approach.
-      <em>Transportation Research Part E</em>, 2024. (JCR-Q1, SSCI-Q1, SCIE-Q1, IF: 8.3)
-    </font>
-    <br>
-    <strong>Chen, T.</strong>, Shen, Z., Feng, S.<sup>✉</sup>, Yang L., Ke, J.
-    <br>
-    [<a href=""><i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF</a>]
-    [<a href="https://github.com/HKU-Smart-Mobility-Lab/DL-MRD-Broadcasting"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> CODE</a>]
-    <br>
-    <p></p>
+  <td style="width:70%;vertical-align:top;">
+    <p style="margin:0;font-size:16px;line-height:1.5;">
+      <strong>Dynamic Matching Radius Decision Model for On-Demand Ride Services: A Deep Multi-Task Learning Approach.</strong>
+      <br>
+      <em>Transportation Research Part E</em>, 2024. 
+      <span style="color:gray;">(JCR-Q1, SSCI-Q1, SCIE-Q1, IF: 8.3)</span>
+    </p>
+    <p style="margin:5px 0;color:#555;">
+      <strong>Chen, T.</strong>, Shen, Z., Feng, S.<sup>✉</sup>, Yang, L., Ke, J.
+    </p>
+    <p style="margin:5px 0;">
+      [<a href="#" style="text-decoration:none;color:#007bff;"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF</a>]
+      [<a href="https://github.com/HKU-Smart-Mobility-Lab/DL-MRD-Broadcasting" style="text-decoration:none;color:#007bff;"><i class="fa fa-code" aria-hidden="true"></i> CODE</a>]
+    </p>
   </td>
 </tr>
 </tbody>
 </table>
-### 2024
-<hr style="height:1px;border-width:0;color:gray;background-color:gray" />
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-<tr onmouseout="font_stop()" onmouseover="font_start()" bgcolor="">
-    <td style="padding: 0px; padding-bottom: 0px; width: 30%; vertical-align: middle;">
-        <img src="/images/research/feng2023multi.png" style="width: 400px; height: 200px;">
-    </td>
-    <td style="padding: 10px; padding-bottom: 0px; width: 70%; vertical-align: top;">
-        <font size="3">  
-            A multi-functional simulation platform for on-demand ride service operations.
-            <em>Communications in Transportation Research (CTR)</em>, 2024. (JCR-Q1, IF: 12.5)
-        </font>
-        <br>
-        Feng, S., <strong>Chen, T.</strong>, Zhang, Y., Ke, J.<sup>✉</sup>, Zheng, Z., & Yang, H.
-        <br>
-        [<a href="https://arxiv.org/pdf/2303.12336"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF</a>]
-        [<a href="https://github.com/HKU-Smart-Mobility-Lab/Transportation_Simulator"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> CODE</a>]
-        [<a href="https://youtu.be/q25L7lr77ms"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> VIDEO</a>]
-        <br>
-        <p></p>
-    </td>
+
+<hr style="height:1px;border-width:0;background-color:#d3d3d3;" />
+
+### **2024**
+<table style="width:100%;border:0px;border-spacing:10px;margin:auto;">
+<tbody>
+<tr>
+  <td style="width:30%;vertical-align:middle;text-align:center;">
+    <img src="/images/research/feng2023multi.png" style="width:100%;max-width:300px;border-radius:8px;">
+  </td>
+  <td style="width:70%;vertical-align:top;">
+    <p style="margin:0;font-size:16px;line-height:1.5;">
+      <strong>A multi-functional simulation platform for on-demand ride service operations.</strong>
+      <br>
+      <em>Communications in Transportation Research (CTR)</em>, 2024. 
+      <span style="color:gray;">(JCR-Q1, IF: 12.5)</span>
+    </p>
+    <p style="margin:5px 0;color:#555;">
+      Feng, S., <strong>Chen, T.</strong>, Zhang, Y., Ke, J.<sup>✉</sup>, Zheng, Z., & Yang, H.
+    </p>
+    <p style="margin:5px 0;">
+      [<a href="https://arxiv.org/pdf/2303.12336" style="text-decoration:none;color:#007bff;"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF</a>]
+      [<a href="https://github.com/HKU-Smart-Mobility-Lab/Transportation_Simulator" style="text-decoration:none;color:#007bff;"><i class="fa fa-code" aria-hidden="true"></i> CODE</a>]
+      [<a href="https://youtu.be/q25L7lr77ms" style="text-decoration:none;color:#007bff;"><i class="fa fa-video-camera" aria-hidden="true"></i> VIDEO</a>]
+    </p>
+  </td>
 </tr>
 </tbody>
 </table>
+
+---
 
 ## Conference Papers
-<hr style="height:2px;border-width:0;color:gray;background-color:gray" />
-- Tan, W., Chen, D., Xue, J., Wang, Z., <strong>Chen, T.*</strong>. Teaching-Inspired Integrated Prompting Framework: A Novel Approach for Enhancing Reasoning in Large Language Models. In Proceedings of the 31st International Conference on Computational Linguistics: Industry Track (pp. 827-839).
-- <strong>Chen, T.</strong>, Liu, J., Feng, S.*, Ke, J. 2025. Enhancing Autonomous Mobility on Demand Systems: A Hierarchical Repositioning Approach Integrating Regional-level and Route-level Decision. Proceedings of the TRB Annual Meeting 2025, Washington, DC, USA, January 5–9, 2025.
-- <strong>Chen, T.*</strong>, Liu, J., Feng, S., Ke, J. 2024. A Top-to-Bottom Reposition Method for Ride-hailing Platforms, Presented in the Conference in Emerging Technologies in Transportation Systems (TRC-30), Crete, Greece, September 2-4, 2024.
-- <strong>Chen T.*</strong>, Liu J., Hu Z., Feng S., Ke J., 2024. A Top-to-Bottom Reposition Method for Ride-hailing Platforms. Proceedings of the 28th International Conference of Hong Kong Society for Transportation Studies, HKSTS 2024: Transport and Equity, Hong Kong, December 9–10, 2024.
-- <strong>Chen T.*</strong>, Liang J., Zhao Y., Ke J., 2024. To grab or not to grab? Revealing determinants of drivers’ willingness to grab orders under the broadcasting mode. Proceedings of the 28th International Conference of Hong Kong Society for Transportation Studies, HKSTS 2024: Transport and Equity, Hong Kong, December 9–10, 2024.
-- <strong>Chen T.*</strong>, Shen Z., Feng S., Ke J., 2023. TEB: A time series model for on-demand e-hailing matching in the broadcasting mode. Proceedings of the 28th International Conference of Hong Kong Society for Transportation Studies, HKSTS 2023: Transport and Equity, Hong Kong, December 11–12, 2023.
 
+<hr style="height:2px;border-width:0;background-color:#d3d3d3;" />
 
-## Software copyright
-<hr style="height:2px;border-width:0;color:gray;background-color:gray" />
+<ul style="font-size:16px;line-height:1.8;color:#333;">
+  <li>
+    Tan, W., Chen, D., Xue, J., Wang, Z., <strong>Chen, T.*</strong>. Teaching-Inspired Integrated Prompting Framework: A Novel Approach for Enhancing Reasoning in Large Language Models. 
+    <em>In Proceedings of the 31st International Conference on Computational Linguistics: Industry Track</em> (pp. 827-839).
+  </li>
+  <li>
+    <strong>Chen, T.</strong>, Liu, J., Feng, S.*, Ke, J. 2025. Enhancing Autonomous Mobility on Demand Systems: A Hierarchical Repositioning Approach Integrating Regional-level and Route-level Decision. 
+    <em>Proceedings of the TRB Annual Meeting 2025</em>, Washington, DC, USA, January 5–9, 2025.
+  </li>
+  <li>
+    <strong>Chen, T.*</strong>, Liu, J., Feng, S., Ke, J. 2024. A Top-to-Bottom Reposition Method for Ride-hailing Platforms, 
+    <em>Presented in the Conference in Emerging Technologies in Transportation Systems (TRC-30)</em>, Crete, Greece, September 2-4, 2024.
+  </li>
+  <li>
+    <strong>Chen T.*</strong>, Liu J., Hu Z., Feng S., Ke J., 2024. A Top-to-Bottom Reposition Method for Ride-hailing Platforms. 
+    <em>Proceedings of the 28th International Conference of Hong Kong Society for Transportation Studies</em>, HKSTS 2024: Transport and Equity, Hong Kong, December 9–10, 2024.
+  </li>
+  <li>
+    <strong>Chen T.*</strong>, Liang J., Zhao Y., Ke J., 2024. To grab or not to grab? Revealing determinants of drivers’ willingness to grab orders under the broadcasting mode. 
+    <em>Proceedings of the 28th International Conference of Hong Kong Society for Transportation Studies</em>, HKSTS 2024: Transport and Equity, Hong Kong, December 9–10, 2024.
+  </li>
+  <li>
+    <strong>Chen T.*</strong>, Shen Z., Feng S., Ke J., 2023. TEB: A time series model for on-demand e-hailing matching in the broadcasting mode. 
+    <em>Proceedings of the 28th International Conference of Hong Kong Society for Transportation Studies</em>, HKSTS 2023: Transport and Equity, Hong Kong, December 11–12, 2023.
+  </li>
+</ul>
 
-1. Teaching resource network management system based on knowledge graph（Registration No.：2021SR0651132).
+---
 
-2. Teaching resource network making system based on knowledge graph（Registration No.：2021SR0651080).
+## Software Copyright
 
-3. Teaching resource network display system based on knowledge graph（Registration No.：2021SR0651130).
+<hr style="height:2px;border-width:0;background-color:#d3d3d3;" />
+
+<ol style="font-size:16px;line-height:1.8;color:#333;">
+  <li>
+    Teaching resource network management system based on knowledge graph （Registration No.: 2021SR0651132).
+  </li>
+  <li>
+    Teaching resource network making system based on knowledge graph （Registration No.: 2021SR0651080).
+  </li>
+  <li>
+    Teaching resource network display system based on knowledge graph （Registration No.: 2021SR0651130).
+  </li>
+</ol>

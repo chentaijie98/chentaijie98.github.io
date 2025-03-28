@@ -9,33 +9,55 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Software Engineering, Nankai University, 2021
-* M.S. in Computer Science, The University of Hong Kong, 2022
-* Ph.D in Traffic and Transportation Engineering, The University of Hong Kong, 2027 (expected)
 
-Work experience
-======
-* Jan. to March 2023: Algorithm Engineer Intern
-  * Huawei 2012 Laboratory Riemann Laboratory
-  * Duties included: Conduct research on ETA and EV's consumption prediction.
+# Resume Timeline
 
-* Jul. to Nov. 2022: Algorithm Engineer Intern
-  * Didi Chuxing
-  * Duties included: Research on remote Fault Diagnosis of new energy electric vehicles.
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+    <div style="position: relative; width: 80%; max-width: 800px; border-left: 3px solid #d1d1d1; margin: 0 auto; padding-left: 20px;">
 
-* Jul., 2022 to Mar. 2023: Research Assistant
-  * HKUST
-  * Duties included: Implement reinforcement learning algorithms for order matching and vehicle scheduling.
-  * Supervisor: Prof. Hai Yang and Dr. Jintao Ke
+        <!-- Entry 1 -->
+        <div style="position: relative; margin-bottom: 50px;">
+            <div style="position: absolute; left: -12px; top: 0; background: #ff5e57; border-radius: 50%; width: 20px; height: 20px; border: 3px solid white;"></div>
+            <h3 style="margin: 0; font-size: 18px; color: #333;">04/2023 - now</h3>
+            <h4 style="margin: 5px 0; font-size: 16px; color: #555;">The University of Hong Kong</h4>
+            <p style="margin: 5px 0; color: #777;">Ph.D, Transportation Engineering</p>
+            <p style="margin: 5px 0; color: #777;">HKU Smart Mobility Lab</p>
+        </div>
 
-* Jan., 2022 to Jun. 2022: Research Assistant
-  * HKU
-  * Duties included: Develop simulators.
-  * Supervisor: Dr. Jintao Ke
-  
+        <!-- Entry 2 -->
+        <div style="position: relative; margin-bottom: 50px;">
+            <div style="position: absolute; left: -12px; top: 0; background: #ff5e57; border-radius: 50%; width: 20px; height: 20px; border: 3px solid white;"></div>
+            <h3 style="margin: 0; font-size: 18px; color: #333;">Winter 2022</h3>
+            <h4 style="margin: 5px 0; font-size: 16px; color: #555;">Huawei</h4>
+            <p style="margin: 5px 0; color: #777;">Algorithm Engineer, Intern</p>
+        </div>
 
+        <!-- Entry 3 -->
+        <div style="position: relative; margin-bottom: 50px;">
+            <div style="position: absolute; left: -12px; top: 0; background: #ff5e57; border-radius: 50%; width: 20px; height: 20px; border: 3px solid white;"></div>
+            <h3 style="margin: 0; font-size: 18px; color: #333;">Summer 2022</h3>
+            <h4 style="margin: 5px 0; font-size: 16px; color: #555;">Didi Chuxing</h4>
+            <p style="margin: 5px 0; color: #777;">Algorithm Engineer, Intern</p>
+        </div>
+
+        <!-- Entry 4 -->
+        <div style="position: relative; margin-bottom: 50px;">
+            <div style="position: absolute; left: -12px; top: 0; background: #ff5e57; border-radius: 50%; width: 20px; height: 20px; border: 3px solid white;"></div>
+            <h3 style="margin: 0; font-size: 18px; color: #333;">2021 - 2023</h3>
+            <h4 style="margin: 5px 0; font-size: 16px; color: #555;">The University of Hong Kong</h4>
+            <p style="margin: 5px 0; color: #777;">M.S. in Computer Science</p>
+        </div>
+
+        <!-- Entry 5 -->
+        <div style="position: relative; margin-bottom: 50px;">
+            <div style="position: absolute; left: -12px; top: 0; background: #ff5e57; border-radius: 50%; width: 20px; height: 20px; border: 3px solid white;"></div>
+            <h3 style="margin: 0; font-size: 18px; color: #333;">2017 - 2021</h3>
+            <h4 style="margin: 5px 0; font-size: 16px; color: #555;">Nankai University</h4>
+            <p style="margin: 5px 0; color: #777;">B.S. in Software Engineering</p>
+        </div>
+
+    </div>
+</div>
 
 Publications
 ======

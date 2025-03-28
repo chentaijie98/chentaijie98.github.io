@@ -44,6 +44,49 @@ Taijie CHEN is a Ph.D. student in Traffic and Transportation Engineering at the 
 
 ---
 
+    <!-- Entry 1 -->
+    <div style="position: relative; margin-bottom: 50px;">
+        <div style="position: absolute; left: -12px; top: 0; background: #ff5e57; border-radius: 50%; width: 20px; height: 20px; border: 3px solid white;"></div>
+        <h3 style="margin: 0; font-size: 18px; color: #333;">04/2023 - now</h3>
+        <h4 style="margin: 5px 0; font-size: 16px; color: #555;">The University of Hong Kong</h4>
+        <p style="margin: 5px 0; color: #777;">Ph.D, Transportation Engineering</p>
+        <p style="margin: 5px 0; color: #777;">HKU Smart Mobility Lab</p>
+    </div>
+
+    <!-- Entry 2 -->
+    <div style="position: relative; margin-bottom: 50px;">
+        <div style="position: absolute; left: -12px; top: 0; background: #ff5e57; border-radius: 50%; width: 20px; height: 20px; border: 3px solid white;"></div>
+        <h3 style="margin: 0; font-size: 18px; color: #333;">Winter 2022</h3>
+        <h4 style="margin: 5px 0; font-size: 16px; color: #555;">Huawei</h4>
+        <p style="margin: 5px 0; color: #777;">Algorithm Engineer, Intern</p>
+    </div>
+
+    <!-- Entry 3 -->
+    <div style="position: relative; margin-bottom: 50px;">
+        <div style="position: absolute; left: -12px; top: 0; background: #ff5e57; border-radius: 50%; width: 20px; height: 20px; border: 3px solid white;"></div>
+        <h3 style="margin: 0; font-size: 18px; color: #333;">Summer 2022</h3>
+        <h4 style="margin: 5px 0; font-size: 16px; color: #555;">Didi Chuxing</h4>
+        <p style="margin: 5px 0; color: #777;">Algorithm Engineer, Intern</p>
+    </div>
+
+    <!-- Entry 4 -->
+    <div style="position: relative; margin-bottom: 50px;">
+        <div style="position: absolute; left: -12px; top: 0; background: #ff5e57; border-radius: 50%; width: 20px; height: 20px; border: 3px solid white;"></div>
+        <h3 style="margin: 0; font-size: 18px; color: #333;">2021 - 2023</h3>
+        <h4 style="margin: 5px 0; font-size: 16px; color: #555;">The University of Hong Kong</h4>
+        <p style="margin: 5px 0; color: #777;">M.S. in Computer Science</p>
+    </div>
+
+    <!-- Entry 5 -->
+    <div style="position: relative; margin-bottom: 50px;">
+        <div style="position: absolute; left: -12px; top: 0; background: #ff5e57; border-radius: 50%; width: 20px; height: 20px; border: 3px solid white;"></div>
+        <h3 style="margin: 0; font-size: 18px; color: #333;">2017 - 2021</h3>
+        <h4 style="margin: 5px 0; font-size: 16px; color: #555;">Nankai University</h4>
+        <p style="margin: 5px 0; color: #777;">B.S. in Software Engineering</p>
+    </div>
+
+</div>
+
 ## Professional Services
 
 - Reviewer, **Transportation Research Board Annual Meeting**  

@@ -31,15 +31,15 @@ Member of the **[Smart Mobility Lab at HKU](https://sites.google.com/view/kejint
 ## Projects
 
 <div style="margin-top: 20px;">
-1. **Principal Investigator (PI)**  
-   **Tianjin Innovation and Entrepreneurship Training Project** (201910055373).  
-   *"Digital inheritance of intangible cultural heritage based on VR technology—taking Tianjin’s “Clay Figure Zhang” culture as an example".*  
-   **Duration**: 1 Sep 2019 - 1 Sep 2024  
-   **Funding**: RMB ¥10,000.
+1. Principal Investigator (PI)  
+   Tianjin Innovation and Entrepreneurship Training Project (201910055373).  
+   "Digital inheritance of intangible cultural heritage based on VR technology—taking Tianjin’s “Clay Figure Zhang” culture as an example".  
+   Duration: 1 Sep 2019 - 1 Sep 2024  
+   Funding: RMB ¥10,000.
    <br><br>
-2. **Core Member**  
-   **CCF-DiDi GAIA 202410**  
-   *"网约车场景下的时空供需调节问题研究".*  
-   **Duration**: Sep 2024 - Sep 2025  
-   **Funding**: RMB ¥250,000.
+2. Core Member  
+   CCF-DiDi GAIA 202410 
+   "网约车场景下的时空供需调节问题研究".  
+   Duration: Sep 2024 - Sep 2025  
+   Funding: RMB ¥250,000.
 </div>

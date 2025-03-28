@@ -9,7 +9,6 @@ author_profile: true
 
 <hr style="height:2px;border-width:0;background-color:#d3d3d3;" />
 
-### **2025**
 <table style="width:100%;border:0px;border-spacing:10px;margin:auto;">
 <tbody>
 <tr>
@@ -37,7 +36,6 @@ author_profile: true
 
 <hr style="height:1px;border-width:0;background-color:#d3d3d3;" />
 
-### **2024**
 <table style="width:100%;border:0px;border-spacing:10px;margin:auto;">
 <tbody>
 <tr>

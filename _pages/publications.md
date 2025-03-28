@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publications
-
 ## Journal Papers
 
 <hr style="height:2px;border-width:0;background-color:#d3d3d3;" />
@@ -16,7 +14,7 @@ author_profile: true
 <tbody>
 <tr>
   <td style="width:30%;vertical-align:middle;text-align:center;">
-    <img src="/images/research/order-matching.jpg" style="width:100%;max-width:300px;border-radius:8px;">
+    <img src="/images/research/order-matching.jpg" style="width: 400px; height: 200px;border-radius:8px;">
   </td>
   <td style="width:70%;vertical-align:top;">
     <p style="margin:0;font-size:16px;line-height:1.5;">
@@ -44,7 +42,7 @@ author_profile: true
 <tbody>
 <tr>
   <td style="width:30%;vertical-align:middle;text-align:center;">
-    <img src="/images/research/feng2023multi.png" style="width:100%;max-width:300px;border-radius:8px;">
+    <img src="/images/research/feng2023multi.png" style="width: 400px; height: 200px;border-radius:8px;">
   </td>
   <td style="width:70%;vertical-align:top;">
     <p style="margin:0;font-size:16px;line-height:1.5;">

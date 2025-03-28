@@ -5,7 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research
 
 Member of the **[Smart Mobility Lab at HKU](https://sites.google.com/view/kejintao/home)**, Principal Investigator: **Dr. Jintao Ke**.
 
@@ -14,11 +13,11 @@ Member of the **[Smart Mobility Lab at HKU](https://sites.google.com/view/kejint
 ## Working Papers
 
 <div style="margin-top: 20px;">
-1. **Chen, T.**, Liang, J., Zhao, Y.*, & Ke, J. (2024).  
+1. <strong>Chen, T.</strong>, Liang, J., Zhao, Y.*, & Ke, J. (2024).  
    *"To grab or not to grab? Revealing determinants of drivers’ willingness to grab orders under the broadcasting mode".*  
    <span style="color: #007bff;"><u>Major Revision</u></span>.
    <br><br>
-2. **Chen, T.**, Liu, J., Feng, S.*, & Ke, J. (2024).  
+2. <strong>Chen, T.</strong>, Liu, J., Feng, S.*, & Ke, J. (2024).  
    *"Enhancing Autonomous Mobility on Demand Systems: A Hierarchical Repositioning Approach Integrating Regional-level and Route-level Decision".*  
    <span style="color: #007bff;"><u>Major Revision</u></span>.
 </div>

@@ -26,7 +26,7 @@ author_profile: true
       <strong>Chen, T.</strong>, Shen, Z., Feng, S.<sup>✉</sup>, Yang, L., Ke, J.
     </p>
     <p style="margin:5px 0;">
-      [<a href="#" style="text-decoration:none;color:#007bff;"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF</a>]
+      [<a href="https://www.sciencedirect.com/science/article/pii/S1366554524004137" style="text-decoration:none;color:#007bff;"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF</a>]
       [<a href="https://github.com/HKU-Smart-Mobility-Lab/DL-MRD-Broadcasting" style="text-decoration:none;color:#007bff;"><i class="fa fa-code" aria-hidden="true"></i> CODE</a>]
     </p>
   </td>
@@ -53,7 +53,7 @@ author_profile: true
       Feng, S., <strong>Chen, T.</strong>, Zhang, Y., Ke, J.<sup>✉</sup>, Zheng, Z., & Yang, H.
     </p>
     <p style="margin:5px 0;">
-      [<a href="https://arxiv.org/pdf/2303.12336" style="text-decoration:none;color:#007bff;"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF</a>]
+      [<a href="https://www.sciencedirect.com/science/article/pii/S2772424724000246" style="text-decoration:none;color:#007bff;"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF</a>]
       [<a href="https://github.com/HKU-Smart-Mobility-Lab/Transportation_Simulator" style="text-decoration:none;color:#007bff;"><i class="fa fa-code" aria-hidden="true"></i> CODE</a>]
       [<a href="https://youtu.be/q25L7lr77ms" style="text-decoration:none;color:#007bff;"><i class="fa fa-video-camera" aria-hidden="true"></i> VIDEO</a>]
     </p>

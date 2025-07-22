@@ -13,6 +13,33 @@ author_profile: true
 <tbody>
 <tr>
   <td style="width:30%;vertical-align:middle;text-align:center;">
+    <img src="/images/research/to-grab.jpg" style="width: 400px; height: 200px;border-radius:8px;">
+  </td>
+  <td style="width:70%;vertical-align:top;">
+    <p style="margin:0;font-size:16px;line-height:1.5;">
+      <strong>To grab or not? Revealing determinants of drivers’ willingness to grab orders in on-demand ride services.</strong>
+      <br>
+      <em>Travel Behaviour and Society</em>, 2024. 
+      <span style="color:gray;">(JCR-Q1, SSCI-Q1, SCIE-Q1, IF: 5.7)</span>
+    </p>
+    <p style="margin:5px 0;color:#555;">
+      <strong>Chen, T.</strong>, Liang, J., Zhao, Y.<sup>✉</sup>, Ke, J.
+    </p>
+    <p style="margin:5px 0;">
+      [<a href="https://www.sciencedirect.com/science/article/pii/S1366554524004137" style="text-decoration:none;color:#007bff;"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF</a>]
+    </p>
+  </td>
+</tr>
+</tbody>
+</table>
+
+<hr style="height:1px;border-width:0;background-color:#d3d3d3;" />
+
+
+<table style="width:100%;border:0px;border-spacing:10px;margin:auto;">
+<tbody>
+<tr>
+  <td style="width:30%;vertical-align:middle;text-align:center;">
     <img src="/images/research/order-matching.jpg" style="width: 400px; height: 200px;border-radius:8px;">
   </td>
   <td style="width:70%;vertical-align:top;">

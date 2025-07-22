@@ -13,8 +13,8 @@ Member of the **[Smart Mobility Lab at HKU](https://sites.google.com/view/kejint
 ## Working Papers
 
 <div style="margin-top: 20px;">
-1. <strong>Chen, T.</strong>, Liang, J., Zhao, Y.*, & Ke, J. (2024).  
-   *"To grab or not to grab? Revealing determinants of drivers’ willingness to grab orders under the broadcasting mode".*  
+1. <strong>Chen, T.</strong>, Wang, J.,Xiao, F., & Ke, J.* (2024).  
+   *"Real-time Matching for Large-scale On-demand Mobility with Mixed Autonomy: A Learning-based Dynamic Approach".*  
    <span style="color: #007bff;"><u>Major Revision</u></span>.
    <br><br>
 2. <strong>Chen, T.</strong>, Liu, J., Feng, S.*, & Ke, J. (2024).  

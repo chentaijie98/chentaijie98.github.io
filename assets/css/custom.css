@@ -288,6 +288,19 @@
         radial-gradient(circle at 80% 80%, rgba(118, 75, 162, 0.05) 0%, transparent 50%),
         radial-gradient(circle at 40% 20%, rgba(0, 212, 255, 0.05) 0%, transparent 50%);
     pointer-events: none;
+    z-index: 0;
+}
+
+.ai-background > * {
+    position: relative;
+    z-index: 1;
+}
+
+/* Optional neural network pattern background */
+.ai-network-bg {
+    background-image: url('/images/ai-network-pattern.svg');
+    background-repeat: repeat;
+    background-size: 200px 200px;
 }
 
 /* Responsive adjustments */

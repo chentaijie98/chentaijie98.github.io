@@ -10,7 +10,7 @@ author_profile: true
 <hr style="height:2px;border-width:0;background-color:#d3d3d3;" />
 
 <div class="publication-card">
-<table style="width:100%;border:0px;border-spacing:10px;margin:auto;">
+<table style="width:100%;border:0px;border-spacing:20px;margin:auto;">
 <tbody>
 <tr>
   <td style="width:30%;vertical-align:middle;text-align:center;">
@@ -39,7 +39,7 @@ author_profile: true
 
 
 <div class="publication-card">
-<table style="width:100%;border:0px;border-spacing:10px;margin:auto;">
+<table style="width:100%;border:0px;border-spacing:20px;margin:auto;">
 <tbody>
 <tr>
   <td style="width:30%;vertical-align:middle;text-align:center;">
@@ -68,7 +68,7 @@ author_profile: true
 <hr style="height:1px;border-width:0;background-color:#d3d3d3;" />
 
 <div class="publication-card">
-<table style="width:100%;border:0px;border-spacing:10px;margin:auto;">
+<table style="width:100%;border:0px;border-spacing:20px;margin:auto;">
 <tbody>
 <tr>
   <td style="width:30%;vertical-align:middle;text-align:center;">

@@ -2,7 +2,7 @@
 title: "MATH 1853 Linear algebra, probability and statistics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2024-spring-teaching-AI_for_Civil
+permalink: /teaching/2024-spring-teaching-Math
 venue: "The University of Hong Kong, Department of Mathematics"
 date: 2023-09-01
 location: "Hong Kong, China"

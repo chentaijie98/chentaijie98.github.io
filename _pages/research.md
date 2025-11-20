@@ -13,7 +13,7 @@ Member of the **[Smart Mobility Lab at HKU](https://sites.google.com/view/kejint
 ## Working Papers
 
 <div class="working-papers-list">
-<div style="margin-top: 20px;">
+<div>
 1. <strong>Chen, T.</strong>, Wang, J.,Xiao, F., & Ke, J.* (2024).  
    *"Real-time Matching for Large-scale On-demand Mobility with Mixed Autonomy: A Learning-based Dynamic Approach".*  
    <span style="color: #007bff;"><u>Major Revision</u></span>.
@@ -33,7 +33,7 @@ Member of the **[Smart Mobility Lab at HKU](https://sites.google.com/view/kejint
 ## Projects
 
 <div class="projects-list">
-<div style="margin-top: 20px;">
+<div>
 1. Principal Investigator (PI)  
    Tianjin Innovation and Entrepreneurship Training Project (201910055373).  
    "Digital inheritance of intangible cultural heritage based on VR technology—taking Tianjin’s “Clay Figure Zhang” culture as an example".  

@@ -46,8 +46,11 @@
   border-radius: 12px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   margin: 20px 0;
+  scrollbar-width: thin; /* Firefox */
+  scrollbar-color: #888 #f1f1f1; /* Firefox */
 }
 
+/* Custom scrollbar for WebKit browsers (Chrome, Safari, Edge) */
 .news-section::-webkit-scrollbar {
   width: 8px;
 }
@@ -106,7 +109,7 @@
 }
 
 .publication-card table {
-  border-spacing: 20px !important;
+  border-spacing: 20px;
 }
 
 .publication-card img {
@@ -140,8 +143,11 @@
   color: #fff;
 }
 
-.research-card a {
-  color: #ffd700 !important;
+.research-card a:link,
+.research-card a:visited,
+.research-card a:active,
+.research-card a:hover {
+  color: #ffd700;
   text-decoration: underline;
 }
 

@@ -1,3 +1,59 @@
+---
+permalink: /
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+{% include base_path %}
+
+# About Me
+
+Taijie CHEN is a Ph.D. student in Traffic and Transportation Engineering at the University of Hong Kong, supervised by [Dr. Jintao Ke](https://sites.google.com/view/kejintao) and [Prof. W. Y. Szeto](https://www.civil.hku.hk/szeto/). He received a B.S. in Software Engineering from Nankai University and an M.S. in Computer Science from the University of Hong Kong.
+
+His research interests include Reinforcement Learning, Deep Learning, Large Language Model, and Transportation. Specifically, he is currently engaged in research on the application of reinforcement learning and large language models in transportation.
+
+---
+
+## Education
+
+- **B.S. in Software Engineering**, Nankai University, 2021  
+- **M.S. in Computer Science**, The University of Hong Kong, 2022  
+- **Ph.D. in Traffic and Transportation Engineering**, The University of Hong Kong, 2027 (expected)  
+
+---
+
+## Work Experience and Internship
+
+- **Jan. to Mar. 2023**: Algorithm Engineer Intern  
+  - *Huawei 2012 Laboratory (Riemann Laboratory)*  
+  - **Duties**: Conduct research on ETA and EV's consumption prediction.  
+
+- **Jul. to Nov. 2022**: Algorithm Engineer Intern  
+  - *Didi Chuxing*  
+  - **Duties**: Research on remote fault diagnosis of new energy electric vehicles.  
+
+- **Jul. 2022 to Mar. 2023**: Research Assistant  
+  - *Hong Kong University of Science and Technology (HKUST)*  
+  - **Duties**: Implement reinforcement learning algorithms for order matching and vehicle scheduling.  
+  - **Supervisors**: Prof. Hai Yang and Dr. Jintao Ke  
+
+- **Jan. to Jun. 2022**: Research Assistant  
+  - *The University of Hong Kong (HKU)*  
+  - **Duties**: Develop simulators.  
+  - **Supervisor**: Dr. Jintao Ke  
+
+---
+
+## Professional Services
+
+- Reviewer, **Transportation Research Board Annual Meeting**  
+- Student Helper, **27th International Conference of Hong Kong Society for Transportation Studies (HKSTS)**  
+- Student Helper, **9th International Symposium on Transport Network Resilience**
+
+---
+
 ## News
 
 <div class="news-section" markdown="1">
@@ -11,3 +67,7 @@
 - **04/2023**: I am currently a Ph.D. student at HKU. I hope that I can enjoy this journey!  
 
 </div>
+
+---
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2Fn4m2hY1SgpaARN_eQNld7R4iIDB0cu_F-vPYzASgg&cl=ffffff&t=tt&w=a"></script>

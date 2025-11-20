@@ -10,60 +10,69 @@ redirect_from:
 {% include base_path %}
 
 
-# Resume Timeline
+# <i class="fas fa-id-card" style="color:#667eea;"></i> Resume Timeline
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
-    <div style="position: relative; width: 80%; max-width: 800px; border-left: 3px solid #d1d1d1; margin: 0 auto; padding-left: 20px;">
+    <div style="position: relative; width: 80%; max-width: 800px; border-left: 4px solid var(--ai-primary, #667eea); margin: 0 auto; padding-left: 20px;">
 
         <!-- Entry 1 -->
-        <div style="position: relative; margin-bottom: 50px;">
-            <div style="position: absolute; left: -12px; top: 0; background: #ff5e57; border-radius: 50%; width: 20px; height: 20px; border: 3px solid white;"></div>
-            <h3 style="margin: 0; font-size: 18px; color: #333;">04/2023 - now</h3>
-            <h4 style="margin: 5px 0; font-size: 16px; color: #555;">The University of Hong Kong</h4>
-            <p style="margin: 5px 0; color: #777;">Ph.D, Transportation Engineering</p>
-            <p style="margin: 5px 0; color: #777;">HKU Smart Mobility Lab</p>
+        <div class="timeline-entry" style="position: relative; margin-bottom: 50px;">
+            <div style="position: absolute; left: -32px; top: 10px; background: linear-gradient(135deg, #667eea, #764ba2); border-radius: 50%; width: 24px; height: 24px; border: 4px solid white; box-shadow: 0 2px 8px rgba(0,0,0,0.2);"></div>
+            <div style="position: absolute; left: -23px; top: 19px; color: white; font-size: 10px;"><i class="fas fa-graduation-cap"></i></div>
+            <h3 style="margin: 0; font-size: 18px; color: #333;"><i class="far fa-calendar-alt"></i> 04/2023 - now</h3>
+            <h4 style="margin: 5px 0; font-size: 16px; color: #555;"><i class="fas fa-university"></i> The University of Hong Kong</h4>
+            <p style="margin: 5px 0; color: #777;"><i class="fas fa-user-graduate"></i> Ph.D, Transportation Engineering</p>
+            <p style="margin: 5px 0; color: #777;"><i class="fas fa-flask"></i> HKU Smart Mobility Lab</p>
         </div>
 
         <!-- Entry 2 -->
-        <div style="position: relative; margin-bottom: 50px;">
-            <div style="position: absolute; left: -12px; top: 0; background: #ff5e57; border-radius: 50%; width: 20px; height: 20px; border: 3px solid white;"></div>
-            <h3 style="margin: 0; font-size: 18px; color: #333;">Winter 2022</h3>
-            <h4 style="margin: 5px 0; font-size: 16px; color: #555;">Huawei</h4>
-            <p style="margin: 5px 0; color: #777;">Algorithm Engineer, Intern</p>
+        <div class="timeline-entry" style="position: relative; margin-bottom: 50px;">
+            <div style="position: absolute; left: -32px; top: 10px; background: linear-gradient(135deg, #667eea, #764ba2); border-radius: 50%; width: 24px; height: 24px; border: 4px solid white; box-shadow: 0 2px 8px rgba(0,0,0,0.2);"></div>
+            <div style="position: absolute; left: -23px; top: 19px; color: white; font-size: 10px;"><i class="fas fa-briefcase"></i></div>
+            <h3 style="margin: 0; font-size: 18px; color: #333;"><i class="far fa-calendar-alt"></i> Winter 2022</h3>
+            <h4 style="margin: 5px 0; font-size: 16px; color: #555;"><i class="fas fa-building"></i> Huawei</h4>
+            <p style="margin: 5px 0; color: #777;"><i class="fas fa-laptop-code"></i> Algorithm Engineer, Intern</p>
         </div>
 
         <!-- Entry 3 -->
-        <div style="position: relative; margin-bottom: 50px;">
-            <div style="position: absolute; left: -12px; top: 0; background: #ff5e57; border-radius: 50%; width: 20px; height: 20px; border: 3px solid white;"></div>
-            <h3 style="margin: 0; font-size: 18px; color: #333;">Summer 2022</h3>
-            <h4 style="margin: 5px 0; font-size: 16px; color: #555;">Didi Chuxing</h4>
-            <p style="margin: 5px 0; color: #777;">Algorithm Engineer, Intern</p>
+        <div class="timeline-entry" style="position: relative; margin-bottom: 50px;">
+            <div style="position: absolute; left: -32px; top: 10px; background: linear-gradient(135deg, #667eea, #764ba2); border-radius: 50%; width: 24px; height: 24px; border: 4px solid white; box-shadow: 0 2px 8px rgba(0,0,0,0.2);"></div>
+            <div style="position: absolute; left: -23px; top: 19px; color: white; font-size: 10px;"><i class="fas fa-briefcase"></i></div>
+            <h3 style="margin: 0; font-size: 18px; color: #333;"><i class="far fa-calendar-alt"></i> Summer 2022</h3>
+            <h4 style="margin: 5px 0; font-size: 16px; color: #555;"><i class="fas fa-building"></i> Didi Chuxing</h4>
+            <p style="margin: 5px 0; color: #777;"><i class="fas fa-laptop-code"></i> Algorithm Engineer, Intern</p>
         </div>
 
         <!-- Entry 4 -->
-        <div style="position: relative; margin-bottom: 50px;">
-            <div style="position: absolute; left: -12px; top: 0; background: #ff5e57; border-radius: 50%; width: 20px; height: 20px; border: 3px solid white;"></div>
-            <h3 style="margin: 0; font-size: 18px; color: #333;">2021 - 2023</h3>
-            <h4 style="margin: 5px 0; font-size: 16px; color: #555;">The University of Hong Kong</h4>
-            <p style="margin: 5px 0; color: #777;">M.S. in Computer Science</p>
+        <div class="timeline-entry" style="position: relative; margin-bottom: 50px;">
+            <div style="position: absolute; left: -32px; top: 10px; background: linear-gradient(135deg, #667eea, #764ba2); border-radius: 50%; width: 24px; height: 24px; border: 4px solid white; box-shadow: 0 2px 8px rgba(0,0,0,0.2);"></div>
+            <div style="position: absolute; left: -23px; top: 19px; color: white; font-size: 10px;"><i class="fas fa-graduation-cap"></i></div>
+            <h3 style="margin: 0; font-size: 18px; color: #333;"><i class="far fa-calendar-alt"></i> 2021 - 2023</h3>
+            <h4 style="margin: 5px 0; font-size: 16px; color: #555;"><i class="fas fa-university"></i> The University of Hong Kong</h4>
+            <p style="margin: 5px 0; color: #777;"><i class="fas fa-user-graduate"></i> M.S. in Computer Science</p>
         </div>
 
         <!-- Entry 5 -->
-        <div style="position: relative; margin-bottom: 50px;">
-            <div style="position: absolute; left: -12px; top: 0; background: #ff5e57; border-radius: 50%; width: 20px; height: 20px; border: 3px solid white;"></div>
-            <h3 style="margin: 0; font-size: 18px; color: #333;">2017 - 2021</h3>
-            <h4 style="margin: 5px 0; font-size: 16px; color: #555;">Nankai University</h4>
-            <p style="margin: 5px 0; color: #777;">B.S. in Software Engineering</p>
+        <div class="timeline-entry" style="position: relative; margin-bottom: 50px;">
+            <div style="position: absolute; left: -32px; top: 10px; background: linear-gradient(135deg, #667eea, #764ba2); border-radius: 50%; width: 24px; height: 24px; border: 4px solid white; box-shadow: 0 2px 8px rgba(0,0,0,0.2);"></div>
+            <div style="position: absolute; left: -23px; top: 19px; color: white; font-size: 10px;"><i class="fas fa-graduation-cap"></i></div>
+            <h3 style="margin: 0; font-size: 18px; color: #333;"><i class="far fa-calendar-alt"></i> 2017 - 2021</h3>
+            <h4 style="margin: 5px 0; font-size: 16px; color: #555;"><i class="fas fa-university"></i> Nankai University</h4>
+            <p style="margin: 5px 0; color: #777;"><i class="fas fa-user-graduate"></i> B.S. in Software Engineering</p>
         </div>
 
     </div>
 </div>
 
-Publications
-======
+<div style="margin-top: 40px;">
+
+## <i class="fas fa-newspaper" style="color:#667eea;"></i> Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+</div>
   
 <!-- Talks
 ======

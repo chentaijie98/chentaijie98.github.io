@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/2024-spring-teaching-AI_for_Civil
 venue: "The University of Hong Kong, Department of Civil Engineering"
 date: 2023-09-01
-location: "Hong Kong, SAR"
+location: "Hong Kong, China"
 ---
 
 ### Description

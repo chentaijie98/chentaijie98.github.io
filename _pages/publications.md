@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Journal Papers
+## <i class="fas fa-newspaper" style="color:#667eea;"></i> Journal Papers
 
 <hr style="height:2px;border-width:0;background-color:#d3d3d3;" />
 
@@ -97,7 +97,7 @@ author_profile: true
 
 ---
 
-## Conference Papers
+## <i class="fas fa-comments" style="color:#f39c12;"></i> Conference Papers
 
 <hr style="height:2px;border-width:0;background-color:#d3d3d3;" />
 
@@ -132,7 +132,7 @@ author_profile: true
 
 ---
 
-## Software Copyright
+## <i class="fas fa-copyright" style="color:#4ecdc4;"></i> Software Copyright
 
 <hr style="height:2px;border-width:0;background-color:#d3d3d3;" />
 

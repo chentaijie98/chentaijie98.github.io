@@ -18,7 +18,6 @@ Member of the <strong><a href="https://sites.google.com/view/kejintao/home" clas
 ## <i class="fas fa-file-alt" style="color:#ff6b6b;"></i> Working Papers
 
 <div class="working-papers-list">
-<div style="margin-top: 20px;">
 
 <div class="card-container" style="border-left-color:#ff6b6b;margin-bottom:20px;">
 <p style="margin:0;font-size:16px;line-height:1.6;">
@@ -44,11 +43,10 @@ Member of the <strong><a href="https://sites.google.com/view/kejintao/home" clas
 </p>
 </div>
 
-</div>
+<div style="margin-top: 10px; font-size: 14px; color: #555;">
+<em>Note: * denotes the corresponding author.</em>
 </div>
 
-<div style="margin-top: 10px; font-size: 14px; color: #555;">
-<em>Note: `*` denotes the corresponding author.</em>
 </div>
 
 ---
@@ -56,7 +54,6 @@ Member of the <strong><a href="https://sites.google.com/view/kejintao/home" clas
 ## <i class="fas fa-project-diagram" style="color:#4ecdc4;"></i> Projects
 
 <div class="projects-list">
-<div style="margin-top: 20px;">
 
 <div class="card-container" style="border-left-color:#4ecdc4;margin-bottom:20px;">
 <p style="margin:0;"><i class="fas fa-user-tie"></i> <strong>Principal Investigator (PI)</strong></p>
@@ -86,7 +83,6 @@ CCF-DiDi GAIA 202410
 </p>
 </div>
 
-</div>
 </div>
 
 </div>

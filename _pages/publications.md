@@ -9,6 +9,7 @@ author_profile: true
 
 <hr style="height:2px;border-width:0;background-color:#d3d3d3;" />
 
+<div class="publication-card">
 <table style="width:100%;border:0px;border-spacing:10px;margin:auto;">
 <tbody>
 <tr>
@@ -32,10 +33,12 @@ author_profile: true
 </tr>
 </tbody>
 </table>
+</div>
 
 <hr style="height:1px;border-width:0;background-color:#d3d3d3;" />
 
 
+<div class="publication-card">
 <table style="width:100%;border:0px;border-spacing:10px;margin:auto;">
 <tbody>
 <tr>
@@ -60,9 +63,11 @@ author_profile: true
 </tr>
 </tbody>
 </table>
+</div>
 
 <hr style="height:1px;border-width:0;background-color:#d3d3d3;" />
 
+<div class="publication-card">
 <table style="width:100%;border:0px;border-spacing:10px;margin:auto;">
 <tbody>
 <tr>
@@ -88,6 +93,7 @@ author_profile: true
 </tr>
 </tbody>
 </table>
+</div>
 
 ---
 
@@ -95,6 +101,7 @@ author_profile: true
 
 <hr style="height:2px;border-width:0;background-color:#d3d3d3;" />
 
+<div class="conference-papers-list">
 <ul style="font-size:16px;line-height:1.8;color:#333;">
   <li>
     Tan, W., Chen, D., Xue, J., Wang, Z., <strong>Chen, T.*</strong>. Teaching-Inspired Integrated Prompting Framework: A Novel Approach for Enhancing Reasoning in Large Language Models. 
@@ -121,6 +128,7 @@ author_profile: true
     <em>Proceedings of the 28th International Conference of Hong Kong Society for Transportation Studies</em>, HKSTS 2023: Transport and Equity, Hong Kong, December 11–12, 2023.
   </li>
 </ul>
+</div>
 
 ---
 

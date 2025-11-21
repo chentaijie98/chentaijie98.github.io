@@ -70,7 +70,7 @@ His research interests include <span class="highlight-text"><i class="fas fa-rob
 
 ---
 
-## <i class="fas fa-award" style="color:#00d4ff;"></i> Professional Services
+## <i class="fas fa-award" style="color:#8b7fc8;"></i> Professional Services
 
 <div class="professional-services-item">
   <i class="fas fa-user-check"></i> <strong>Reviewer</strong>, Transportation Research Board Annual Meeting
@@ -84,7 +84,7 @@ His research interests include <span class="highlight-text"><i class="fas fa-rob
   <i class="fas fa-hands-helping"></i> <strong>Student Helper</strong>, 9th International Symposium on Transport Network Resilience
 </div>
 
-## <i class="fas fa-bullhorn" style="color:#f39c12;"></i> News
+## <i class="fas fa-bullhorn" style="color:#9d8cc9;"></i> News
 
 <div class="news-carousel-container">
   <div class="news-carousel">
@@ -123,10 +123,10 @@ His research interests include <span class="highlight-text"><i class="fas fa-rob
 .news-carousel-container {
   margin: 20px 0;
   padding: 20px;
-  background: linear-gradient(135deg, #fff5eb 0%, #fff9f5 100%);
+  background: linear-gradient(135deg, #f8f6ff 0%, #faf9ff 100%);
   border-radius: 12px;
-  border: 2px solid #f39c12;
-  box-shadow: 0 4px 12px rgba(243, 156, 18, 0.1);
+  border: 2px solid #9d8cc9;
+  box-shadow: 0 4px 12px rgba(157, 140, 201, 0.15);
   max-height: 400px;
   overflow-y: auto;
   overflow-x: hidden;
@@ -142,12 +142,12 @@ His research interests include <span class="highlight-text"><i class="fas fa-rob
 }
 
 .news-carousel-container::-webkit-scrollbar-thumb {
-  background: #f39c12;
+  background: #9d8cc9;
   border-radius: 10px;
 }
 
 .news-carousel-container::-webkit-scrollbar-thumb:hover {
-  background: #e67e22;
+  background: #8b7fc8;
 }
 
 .news-carousel {
@@ -162,20 +162,20 @@ His research interests include <span class="highlight-text"><i class="fas fa-rob
   padding: 15px 20px;
   background: white;
   border-radius: 8px;
-  border-left: 4px solid #f39c12;
+  border-left: 4px solid #9d8cc9;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
   transition: all 0.3s ease;
 }
 
 .news-item:hover {
   transform: translateX(5px);
-  box-shadow: 0 4px 12px rgba(243, 156, 18, 0.2);
-  border-left-color: #e67e22;
+  box-shadow: 0 4px 12px rgba(157, 140, 201, 0.25);
+  border-left-color: #8b7fc8;
 }
 
 .news-date {
   font-weight: bold;
-  color: #f39c12;
+  color: #9d8cc9;
   font-size: 14px;
   margin-bottom: 8px;
   display: inline-block;
@@ -188,7 +188,7 @@ His research interests include <span class="highlight-text"><i class="fas fa-rob
 }
 
 .news-content strong {
-  color: #f39c12;
+  color: #9d8cc9;
 }
 
 .news-content em {

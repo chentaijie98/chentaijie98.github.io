@@ -13,11 +13,11 @@ Member of the <strong><a href="https://sites.google.com/view/kejintao/home" clas
 </p>
 </div>
 
-<i class="fas fa-file-alt" style="color:#ff6b6b;"></i> Working Papers
+<i class="fas fa-file-alt" style="color:#8b7fc8;"></i> Working Papers
 
 <div class="working-papers-list">
 
-<div class="card-container" style="border-left-color:#ff6b6b;margin-bottom:20px;">
+<div class="card-container" style="border-left-color:#8b7fc8;margin-bottom:20px;">
 <p style="margin:0;font-size:16px;line-height:1.6;">
 <strong>1. Chen, T.</strong>, Wang, J., Xiao, F., & Ke, J.* (2024).
 </p>
@@ -29,7 +29,7 @@ Member of the <strong><a href="https://sites.google.com/view/kejintao/home" clas
 </p>
 </div>
 
-<div class="card-container" style="border-left-color:#ff6b6b;margin-bottom:20px;">
+<div class="card-container" style="border-left-color:#8b7fc8;margin-bottom:20px;">
 <p style="margin:0;font-size:16px;line-height:1.6;">
 <strong>2. Chen, T.</strong>, Shen, Z., Zhou, B., Liu, Y., Wang, S., & Ke, J.* (2024).
 </p>
@@ -47,11 +47,11 @@ Member of the <strong><a href="https://sites.google.com/view/kejintao/home" clas
 
 </div>
 
-<i class="fas fa-project-diagram" style="color:#4ecdc4;"></i> Projects
+<i class="fas fa-project-diagram" style="color:#7a6fb5;"></i> Projects
 
 <div class="projects-list">
 
-<div class="card-container" style="border-left-color:#4ecdc4;margin-bottom:20px;">
+<div class="card-container" style="border-left-color:#7a6fb5;margin-bottom:20px;">
 <p style="margin:0;"><i class="fas fa-user-tie"></i> <strong>Principal Investigator (PI)</strong></p>
 <p style="margin:10px 0 5px 0;font-size:16px;line-height:1.6;">
 Tianjin Innovation and Entrepreneurship Training Project (201910055373).
@@ -65,7 +65,7 @@ Tianjin Innovation and Entrepreneurship Training Project (201910055373).
 </p>
 </div>
 
-<div class="card-container" style="border-left-color:#4ecdc4;margin-bottom:20px;">
+<div class="card-container" style="border-left-color:#7a6fb5;margin-bottom:20px;">
 <p style="margin:0;"><i class="fas fa-users"></i> <strong>Core Member</strong></p>
 <p style="margin:10px 0 5px 0;font-size:16px;line-height:1.6;">
 CCF-DiDi GAIA 202410

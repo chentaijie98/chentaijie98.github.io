@@ -98,7 +98,16 @@ His research interests include **Reinforcement Learning**, **Deep Learning**, **
 **Dynamic Matching Radius Decision Model for On-Demand Ride Services: A Deep Multi-Task Learning Approach**
 - **Chen, T.**, Liang, J., Ye, J., Ke, J.<sup>✉</sup>
 - *Transportation Research Part E*, 2024 (JCR-Q1, SSCI-Q1, SCIE-Q1, IF: 8.3)
-- [[Paper]](https://www.sciencedirect.com/science/article/pii/S1366554524003387)
+- [[Paper]](https://www.sciencedirect.com/science/article/pii/S1366554524003387) [[Code]](https://github.com/HKU-Smart-Mobility-Lab/DL-MRD-Broadcasting)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CTR 2024</div><img src='images/research/feng2023multi.png' alt="Simulation Platform" width="100%" onerror="this.style.display='none'"></div></div>
+<div class='paper-box-text' markdown="1">
+**A multi-functional simulation platform for on-demand ride service operations**
+- Feng, S., **Chen, T.**, Zhang, Y., Ke, J.<sup>✉</sup>, Zheng, Z., & Yang, H.
+- *Communications in Transportation Research (CTR)*, 2024 (JCR-Q1, IF: 12.5)
+- [[Paper]](https://www.sciencedirect.com/science/article/pii/S2772424724000246) [[Code]](https://github.com/HKU-Smart-Mobility-Lab/Transportation_Simulator) [[Video]](https://youtu.be/q25L7lr77ms)
 </div>
 </div>
 
@@ -107,10 +116,45 @@ His research interests include **Reinforcement Learning**, **Deep Learning**, **
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div></div></div>
 <div class='paper-box-text' markdown="1">
 **Teaching-Inspired Integrated Prompting Framework: A Novel Approach for Enhancing Reasoning in Large Language Models**
-- **Chen, T.**, Liang, J., Li, Y., Zhang, K.
+- Tan, W., Chen, D., Xue, J., Wang, Z., **Chen, T.***
 - *31st International Conference on Computational Linguistics (COLING 2025)*, 2025
 </div>
 </div>
+
+<div class='paper-box-text' markdown="1">
+**Enhancing Autonomous Mobility on Demand Systems: A Hierarchical Repositioning Approach Integrating Regional-level and Route-level Decision**
+- **Chen, T.**, Liu, J., Feng, S.*, Ke, J.
+- *TRB Annual Meeting 2025*, Washington, DC, USA, January 5–9, 2025
+</div>
+
+<div class='paper-box-text' markdown="1">
+**A Top-to-Bottom Reposition Method for Ride-hailing Platforms**
+- **Chen, T.***, Liu, J., Feng, S., Ke, J.
+- *Conference in Emerging Technologies in Transportation Systems (TRC-30)*, Crete, Greece, September 2-4, 2024
+</div>
+
+<div class='paper-box-text' markdown="1">
+**A Top-to-Bottom Reposition Method for Ride-hailing Platforms**
+- **Chen T.***, Liu J., Hu Z., Feng S., Ke J.
+- *28th International Conference of Hong Kong Society for Transportation Studies (HKSTS 2024)*, Hong Kong, December 9–10, 2024
+</div>
+
+<div class='paper-box-text' markdown="1">
+**To grab or not to grab? Revealing determinants of drivers' willingness to grab orders under the broadcasting mode**
+- **Chen T.***, Liang J., Zhao Y., Ke J.
+- *28th International Conference of Hong Kong Society for Transportation Studies (HKSTS 2024)*, Hong Kong, December 9–10, 2024
+</div>
+
+<div class='paper-box-text' markdown="1">
+**TEB: A time series model for on-demand e-hailing matching in the broadcasting mode**
+- **Chen T.***, Shen Z., Feng S., Ke J.
+- *27th International Conference of Hong Kong Society for Transportation Studies (HKSTS 2023)*, Hong Kong, December 11–12, 2023
+</div>
+
+## 💡 Software Copyright
+1. Teaching resource network management system based on knowledge graph (Registration No.: 2021SR0651132)
+2. Teaching resource network making system based on knowledge graph (Registration No.: 2021SR0651080)
+3. Teaching resource network display system based on knowledge graph (Registration No.: 2021SR0651130)
 
 # 💻 Working Experience & Internship
 

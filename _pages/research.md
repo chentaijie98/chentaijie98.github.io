@@ -31,10 +31,10 @@ Member of the <strong><a href="https://sites.google.com/view/kejintao/home" clas
 
 <div class="card-container" style="border-left-color:#ff6b6b;margin-bottom:20px;">
 <p style="margin:0;font-size:16px;line-height:1.6;">
-<strong>2. Chen, T.</strong>, Liu, J., Feng, S.*, & Ke, J. (2024).
+<strong>2. Chen, T.</strong>, Shen, Z., Zhou, B., Liu, Y., Wang, S., & Ke, J.* (2024).
 </p>
 <p style="margin:8px 0;font-size:15px;line-height:1.6;color:#555;">
-<em>"Enhancing Autonomous Mobility on Demand Systems: A Hierarchical Repositioning Approach Integrating Regional-level and Route-level Decision".</em>
+<em>"Addressing Online Incremental Transport Mode Choice Prediction Problem with an LLM-Augmented Class-Incremental Learning Approach".</em>
 </p>
 <p style="margin:8px 0;">
 <span class="badge badge-warning"><i class="fas fa-edit"></i> Major Revision</span>

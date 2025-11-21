@@ -70,7 +70,7 @@ His research interests include <span class="highlight-text"><i class="fas fa-rob
 
 ---
 
-## <i class="fas fa-award" style="color:#00d4ff;"></i> Professional Services
+## <i class="fas fa-award" style="color:#8b7fc8;"></i> Professional Services
 
 <div class="professional-services-item">
   <i class="fas fa-user-check"></i> <strong>Reviewer</strong>, Transportation Research Board Annual Meeting
@@ -84,7 +84,7 @@ His research interests include <span class="highlight-text"><i class="fas fa-rob
   <i class="fas fa-hands-helping"></i> <strong>Student Helper</strong>, 9th International Symposium on Transport Network Resilience
 </div>
 
-## <i class="fas fa-bullhorn" style="color:#f39c12;"></i> News
+## <i class="fas fa-bullhorn" style="color:#9d8cc9;"></i> News
 
 <div class="news-carousel-container">
   <div class="news-carousel">

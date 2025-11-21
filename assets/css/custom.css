@@ -29,17 +29,17 @@
     50% { box-shadow: 0 0 20px rgba(102, 126, 234, 0.6), 0 0 30px rgba(118, 75, 162, 0.4); }
 }
 
-/* AI-themed accent colors */
+/* Unified purple-themed accent colors */
 :root {
     --ai-primary: #667eea;
     --ai-secondary: #764ba2;
-    --ai-accent: #00d4ff;
+    --ai-accent: #8b7fc8;
     --ai-light: #f0f4ff;
     --ai-dark: #1a1a2e;
     --gradient-1: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    --gradient-2: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
-    --gradient-3: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
-    --gradient-4: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+    --gradient-2: linear-gradient(135deg, #8b7fc8 0%, #9d8cc9 100%);
+    --gradient-3: linear-gradient(135deg, #7a6fb5 0%, #8b7fc8 100%);
+    --gradient-4: linear-gradient(135deg, #9d8cc9 0%, #b3a5d6 100%);
 }
 
 /* Publication Card Styles */
@@ -95,12 +95,12 @@
     padding: 30px;
     margin: 25px 0;
     border-left: 5px solid var(--ai-accent);
-    box-shadow: 0 4px 15px rgba(0, 212, 255, 0.1);
+    box-shadow: 0 4px 15px rgba(139, 127, 200, 0.15);
     transition: all 0.3s ease;
 }
 
 .news-section:hover {
-    box-shadow: 0 8px 25px rgba(0, 212, 255, 0.2);
+    box-shadow: 0 8px 25px rgba(139, 127, 200, 0.25);
 }
 
 .news-section ul {
@@ -161,17 +161,17 @@
 
 /* Working Papers List Styles with gradient accents */
 .working-papers-list {
-    background: linear-gradient(135deg, #fff5f5 0%, #ffe8e8 100%);
+    background: linear-gradient(135deg, #f5f2ff 0%, #ebe5ff 100%);
     border-radius: 15px;
     padding: 30px;
     margin: 25px 0;
-    box-shadow: 0 4px 15px rgba(255, 107, 107, 0.1);
-    border-left: 5px solid #ff6b6b;
+    box-shadow: 0 4px 15px rgba(139, 127, 200, 0.15);
+    border-left: 5px solid var(--ai-accent);
     transition: all 0.3s ease;
 }
 
 .working-papers-list:hover {
-    box-shadow: 0 8px 25px rgba(255, 107, 107, 0.2);
+    box-shadow: 0 8px 25px rgba(139, 127, 200, 0.25);
 }
 
 .working-papers-list ol,
@@ -182,17 +182,17 @@
 
 /* Projects List Styles with gradient accents */
 .projects-list {
-    background: linear-gradient(135deg, #f0ffff 0%, #e0f7fa 100%);
+    background: linear-gradient(135deg, #f8f6ff 0%, #ede9ff 100%);
     border-radius: 15px;
     padding: 30px;
     margin: 25px 0;
-    box-shadow: 0 4px 15px rgba(78, 205, 196, 0.1);
-    border-left: 5px solid #4ecdc4;
+    box-shadow: 0 4px 15px rgba(122, 111, 181, 0.15);
+    border-left: 5px solid #7a6fb5;
     transition: all 0.3s ease;
 }
 
 .projects-list:hover {
-    box-shadow: 0 8px 25px rgba(78, 205, 196, 0.2);
+    box-shadow: 0 8px 25px rgba(122, 111, 181, 0.25);
 }
 
 .projects-list ol,
@@ -203,12 +203,12 @@
 
 /* Conference Papers List with modern styling */
 .conference-papers-list {
-    background: linear-gradient(135deg, #fff8e1 0%, #ffecb3 100%);
+    background: linear-gradient(135deg, #fbf9ff 0%, #f2edff 100%);
     border-radius: 15px;
     padding: 30px;
     margin: 25px 0;
-    box-shadow: 0 4px 15px rgba(243, 156, 18, 0.1);
-    border-left: 5px solid #f39c12;
+    box-shadow: 0 4px 15px rgba(157, 140, 201, 0.15);
+    border-left: 5px solid #9d8cc9;
 }
 
 .conference-papers-list ul {
@@ -222,15 +222,15 @@
     background: white;
     border-radius: 10px;
     transition: all 0.4s ease;
-    border-left: 4px solid #f39c12;
+    border-left: 4px solid #9d8cc9;
     box-shadow: 0 2px 8px rgba(0,0,0,0.05);
 }
 
 .conference-papers-list li:hover {
-    background: linear-gradient(135deg, #ffffff 0%, #fffaf0 100%);
-    box-shadow: 0 6px 20px rgba(243, 156, 18, 0.25);
+    background: linear-gradient(135deg, #ffffff 0%, #f8f6ff 100%);
+    box-shadow: 0 6px 20px rgba(157, 140, 201, 0.25);
     transform: translateX(8px) scale(1.02);
-    border-left-color: #e67e22;
+    border-left-color: #8b7fc8;
 }
 
 /* Section Headers with Icons - enhanced */
@@ -392,9 +392,9 @@
 }
 
 .professional-services-item:hover {
-    box-shadow: 0 8px 20px rgba(0, 212, 255, 0.25);
+    box-shadow: 0 8px 20px rgba(139, 127, 200, 0.25);
     transform: translateX(8px);
-    background: linear-gradient(135deg, #ffffff 0%, #f0ffff 100%);
+    background: linear-gradient(135deg, #ffffff 0%, #f8f6ff 100%);
 }
 
 .professional-services-item i {

@@ -9,6 +9,35 @@ author_profile: true
 
 <hr style="height:2px;border-width:0;background-color:#d3d3d3;" />
 
+
+
+<div class="publication-card">
+<table style="width:100%;border:0px;border-spacing:10px;margin:auto;">
+<tbody>
+<tr>
+  <td style="width:30%;vertical-align:middle;text-align:center;">
+    <img src="/images/research/hierarchical_framework.png" style="width: 400px; height: 200px;border-radius:8px;">
+  </td>
+  <td style="width:70%;vertical-align:top;">
+    <p style="margin:0;font-size:16px;line-height:1.5;">
+      <strong>T2BR: A Hierarchical Repositioning Approach for Autonomous Mobility on Demand Systems.</strong>
+      <br>
+      <em> IEEE Transactions on Intelligent Transportation Systems</em>, 2024. 
+      <span style="color:gray;">(JCR-Q1, IF: 8.4)</span>
+    </p>
+    <p style="margin:5px 0;color:#555;">
+      <strong>Chen, T.</strong>, Liu, J., Feng, S.<sup>✉</sup>, Qiu, J., Ke, J.
+    </p>
+    <p style="margin:5px 0;">
+      [<a href="https://ieeexplore.ieee.org/document/11220892" style="text-decoration:none;color:#007bff;"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF</a>]
+    </p>
+  </td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
 <div class="publication-card">
 <table style="width:100%;border:0px;border-spacing:10px;margin:auto;">
 <tbody>

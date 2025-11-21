@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CHEN Taijie(陈泰劼）"
+title                    : "CHEN Taijie<br>陈泰劼"
 title_separator          : "-"
-name                     : &name "CHEN Taijie(陈泰劼）"
-description              : &description "Ph.D. student at The University of Hong Kong"
+name                     : &name "CHEN Taijie<br>陈泰劼"
+description              : &description "Ph.D. Candidate"
 url                      : https://chentaijie98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chentaijie98/chentaijie98.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "CHEN Taijie(陈泰劼）"
+  name             : "CHEN Taijie<br>陈泰劼"
   avatar           : "profile.png"
-  bio              : "Ph.D. student at The University of Hong Kong"
+  bio              : "Ph.D. Candidate"
   location         : "Hong Kong, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

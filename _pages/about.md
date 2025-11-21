@@ -11,7 +11,7 @@ redirect_from:
 # <i class="fas fa-user-circle" style="color:#667eea;"></i> About Me
 
 <p style="line-height:1.8;font-size:16px;">
-Taijie CHEN is a Ph.D. student in Traffic and Transportation Engineering at the University of Hong Kong, supervised by <a href="https://sites.google.com/view/kejintao" class="styled-link">Dr. Jintao Ke</a> and <a href="https://www.civil.hku.hk/szeto/" class="styled-link">Prof. W. Y. Szeto</a>. He received a B.S. in Software Engineering from Nankai University and an M.S. in Computer Science from the University of Hong Kong.
+Taijie CHEN is a Ph.D. Candidate in Traffic and Transportation Engineering at the University of Hong Kong, supervised by <a href="https://sites.google.com/view/kejintao" class="styled-link">Dr. Jintao Ke</a> and <a href="https://www.civil.hku.hk/szeto/" class="styled-link">Prof. W. Y. Szeto</a>. He received a B.S. in Software Engineering from Nankai University and an M.S. in Computer Science from the University of Hong Kong.
 </p>
 
 <p style="line-height:1.8;font-size:16px;margin-top:15px;">
@@ -114,7 +114,7 @@ His research interests include <span class="highlight-text"><i class="fas fa-rob
     </div>
     <div class="news-item">
       <span class="news-date">04/2023</span>
-      <span class="news-content">🚀 I am currently a Ph.D. student at HKU. I hope that I can enjoy this journey!</span>
+      <span class="news-content">🚀 I am currently a Ph.D. Candidate at HKU. I hope that I can enjoy this journey!</span>
     </div>
   </div>
 </div>

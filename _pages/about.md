@@ -86,13 +86,115 @@ His research interests include <span class="highlight-text"><i class="fas fa-rob
 
 ## <i class="fas fa-bullhorn" style="color:#f39c12;"></i> News
 
-- **10/2025**: 🎉 **Congrats!** Our paper *"Enhancing Autonomous Mobility on Demand Systems: A Hierarchical Repositioning Approach Integrating Regional-level and Route-level Decision"* has been accepted by **Transportation Research Part C**.
-- **07/2025**: 🎉 **Congrats!** Our paper *"To grab or not? Revealing determinants of drivers' willingness to grab orders in on-demand ride services"* has been accepted by **Travel Behavior and Society**.
-- **11/2024**: 🎉 **Congrats!** Our paper *"Teaching-Inspired Integrated Prompting Framework: A Novel Approach for Enhancing Reasoning in Large Language Models"* has been accepted by the **31st International Conference on Computational Linguistics (COLING 2025)**.  
-- **10/2024**: 🎉 **Congrats!** Our paper *"Dynamic Matching Radius Decision Model for On-Demand Ride Services: A Deep Multi-Task Learning Approach"* has been accepted by **Transportation Research Part E**.  
-- **09/2024**: 📢 Our article *"Enhancing Autonomous Mobility on Demand Systems: A Hierarchical Repositioning Approach Integrating Regional-level and Route-level Decision"* was presented at the **TRC-30 Symposium**.  
-- **12/2023**: 🎓 I attended [the 27th International Conference of Hong Kong Society for Transportation Studies (HKSTS)](http://www.hksts.org/conf.htm) and made a poster presentation.  
-- **04/2023**: 🚀 I am currently a Ph.D. student at HKU. I hope that I can enjoy this journey!
+<div class="news-carousel-container">
+  <div class="news-carousel">
+    <div class="news-item">
+      <span class="news-date">10/2025</span>
+      <span class="news-content">🎉 <strong>Congrats!</strong> Our paper <em>"Enhancing Autonomous Mobility on Demand Systems: A Hierarchical Repositioning Approach Integrating Regional-level and Route-level Decision"</em> has been accepted by <strong>Transportation Research Part C</strong>.</span>
+    </div>
+    <div class="news-item">
+      <span class="news-date">07/2025</span>
+      <span class="news-content">🎉 <strong>Congrats!</strong> Our paper <em>"To grab or not? Revealing determinants of drivers' willingness to grab orders in on-demand ride services"</em> has been accepted by <strong>Travel Behavior and Society</strong>.</span>
+    </div>
+    <div class="news-item">
+      <span class="news-date">11/2024</span>
+      <span class="news-content">🎉 <strong>Congrats!</strong> Our paper <em>"Teaching-Inspired Integrated Prompting Framework: A Novel Approach for Enhancing Reasoning in Large Language Models"</em> has been accepted by the <strong>31st International Conference on Computational Linguistics (COLING 2025)</strong>.</span>
+    </div>
+    <div class="news-item">
+      <span class="news-date">10/2024</span>
+      <span class="news-content">🎉 <strong>Congrats!</strong> Our paper <em>"Dynamic Matching Radius Decision Model for On-Demand Ride Services: A Deep Multi-Task Learning Approach"</em> has been accepted by <strong>Transportation Research Part E</strong>.</span>
+    </div>
+    <div class="news-item">
+      <span class="news-date">09/2024</span>
+      <span class="news-content">📢 Our article <em>"Enhancing Autonomous Mobility on Demand Systems: A Hierarchical Repositioning Approach Integrating Regional-level and Route-level Decision"</em> was presented at the <strong>TRC-30 Symposium</strong>.</span>
+    </div>
+    <div class="news-item">
+      <span class="news-date">12/2023</span>
+      <span class="news-content">🎓 I attended <a href="http://www.hksts.org/conf.htm" class="styled-link">the 27th International Conference of Hong Kong Society for Transportation Studies (HKSTS)</a> and made a poster presentation.</span>
+    </div>
+    <div class="news-item">
+      <span class="news-date">04/2023</span>
+      <span class="news-content">🚀 I am currently a Ph.D. student at HKU. I hope that I can enjoy this journey!</span>
+    </div>
+  </div>
+</div>
+
+<style>
+.news-carousel-container {
+  margin: 20px 0;
+  padding: 20px;
+  background: linear-gradient(135deg, #fff5eb 0%, #fff9f5 100%);
+  border-radius: 12px;
+  border: 2px solid #f39c12;
+  box-shadow: 0 4px 12px rgba(243, 156, 18, 0.1);
+  max-height: 400px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.news-carousel-container::-webkit-scrollbar {
+  width: 8px;
+}
+
+.news-carousel-container::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+
+.news-carousel-container::-webkit-scrollbar-thumb {
+  background: #f39c12;
+  border-radius: 10px;
+}
+
+.news-carousel-container::-webkit-scrollbar-thumb:hover {
+  background: #e67e22;
+}
+
+.news-carousel {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.news-item {
+  display: flex;
+  flex-direction: column;
+  padding: 15px 20px;
+  background: white;
+  border-radius: 8px;
+  border-left: 4px solid #f39c12;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s ease;
+}
+
+.news-item:hover {
+  transform: translateX(5px);
+  box-shadow: 0 4px 12px rgba(243, 156, 18, 0.2);
+  border-left-color: #e67e22;
+}
+
+.news-date {
+  font-weight: bold;
+  color: #f39c12;
+  font-size: 14px;
+  margin-bottom: 8px;
+  display: inline-block;
+}
+
+.news-content {
+  color: #333;
+  line-height: 1.6;
+  font-size: 15px;
+}
+
+.news-content strong {
+  color: #f39c12;
+}
+
+.news-content em {
+  color: #555;
+}
+</style>
 
 ---
 

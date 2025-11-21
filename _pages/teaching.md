@@ -13,9 +13,7 @@ As a dedicated educator, I have been involved in teaching activities at both <st
 </p>
 </div>
 
----
-
-## <i class="fas fa-chalkboard-teacher" style="color:#667eea;"></i> Teaching Experience
+<i class="fas fa-chalkboard-teacher" style="color:#667eea;"></i> Teaching Experience
 
 <div class="teaching-list">
 

@@ -10,7 +10,6 @@ redirect_from:
 
 # <i class="fas fa-user-circle" style="color:#667eea;"></i> About Me
 
-<div class="card-container ai-background" style="margin-top:20px;">
 <p style="line-height:1.8;font-size:16px;">
 Taijie CHEN is a Ph.D. student in Traffic and Transportation Engineering at the University of Hong Kong, supervised by <a href="https://sites.google.com/view/kejintao" class="styled-link">Dr. Jintao Ke</a> and <a href="https://www.civil.hku.hk/szeto/" class="styled-link">Prof. W. Y. Szeto</a>. He received a B.S. in Software Engineering from Nankai University and an M.S. in Computer Science from the University of Hong Kong.
 </p>
@@ -18,7 +17,6 @@ Taijie CHEN is a Ph.D. student in Traffic and Transportation Engineering at the 
 <p style="line-height:1.8;font-size:16px;margin-top:15px;">
 His research interests include <span class="highlight-text"><i class="fas fa-robot"></i> <strong>Reinforcement Learning</strong></span>, <span class="highlight-text"><i class="fas fa-brain"></i> <strong>Deep Learning</strong></span>, <span class="highlight-text"><i class="fas fa-comment-dots"></i> <strong>Large Language Models</strong></span>, and <span class="highlight-text"><i class="fas fa-car"></i> <strong>Transportation</strong></span>. Specifically, he is currently engaged in research on the application of reinforcement learning and large language models in transportation.
 </p>
-</div>
 
 ---
 
@@ -86,11 +84,7 @@ His research interests include <span class="highlight-text"><i class="fas fa-rob
   <i class="fas fa-hands-helping"></i> <strong>Student Helper</strong>, 9th International Symposium on Transport Network Resilience
 </div>
 
----
-
 ## <i class="fas fa-bullhorn" style="color:#f39c12;"></i> News
-
-<div class="news-section" markdown="1">
 
 - **10/2025**: 🎉 **Congrats!** Our paper *"Enhancing Autonomous Mobility on Demand Systems: A Hierarchical Repositioning Approach Integrating Regional-level and Route-level Decision"* has been accepted by **Transportation Research Part C**.
 - **07/2025**: 🎉 **Congrats!** Our paper *"To grab or not? Revealing determinants of drivers' willingness to grab orders in on-demand ride services"* has been accepted by **Travel Behavior and Society**.
@@ -98,9 +92,7 @@ His research interests include <span class="highlight-text"><i class="fas fa-rob
 - **10/2024**: 🎉 **Congrats!** Our paper *"Dynamic Matching Radius Decision Model for On-Demand Ride Services: A Deep Multi-Task Learning Approach"* has been accepted by **Transportation Research Part E**.  
 - **09/2024**: 📢 Our article *"Enhancing Autonomous Mobility on Demand Systems: A Hierarchical Repositioning Approach Integrating Regional-level and Route-level Decision"* was presented at the **TRC-30 Symposium**.  
 - **12/2023**: 🎓 I attended [the 27th International Conference of Hong Kong Society for Transportation Studies (HKSTS)](http://www.hksts.org/conf.htm) and made a poster presentation.  
-- **04/2023**: 🚀 I am currently a Ph.D. student at HKU. I hope that I can enjoy this journey!  
-
-</div>
+- **04/2023**: 🚀 I am currently a Ph.D. student at HKU. I hope that I can enjoy this journey!
 
 ---
 

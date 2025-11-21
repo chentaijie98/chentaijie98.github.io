@@ -13,8 +13,6 @@ Member of the <strong><a href="https://sites.google.com/view/kejintao/home" clas
 </p>
 </div>
 
----
-
 ## <i class="fas fa-file-alt" style="color:#ff6b6b;"></i> Working Papers
 
 <div class="working-papers-list">
@@ -48,8 +46,6 @@ Member of the <strong><a href="https://sites.google.com/view/kejintao/home" clas
 </div>
 
 </div>
-
----
 
 ## <i class="fas fa-project-diagram" style="color:#4ecdc4;"></i> Projects
 

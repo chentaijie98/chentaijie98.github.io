@@ -101,34 +101,33 @@ author_profile: true
 
 <hr style="height:2px;border-width:0;background-color:#d3d3d3;" />
 
-<div class="conference-papers-list">
-<ul style="font-size:16px;line-height:1.8;color:#333;">
-  <li>
+<ul style="font-size:16px;line-height:1.8;color:#333;list-style:none;padding-left:0;">
+  <li style="padding:18px;margin:12px 0;background:white;border-radius:10px;transition:all 0.4s ease;border-left:4px solid #f39c12;box-shadow:0 2px 8px rgba(0,0,0,0.05);">
     Tan, W., Chen, D., Xue, J., Wang, Z., <strong>Chen, T.*</strong>. Teaching-Inspired Integrated Prompting Framework: A Novel Approach for Enhancing Reasoning in Large Language Models. 
     <em>In Proceedings of the 31st International Conference on Computational Linguistics: Industry Track</em> (pp. 827-839).
   </li>
-  <li>
+  <li style="padding:18px;margin:12px 0;background:white;border-radius:10px;transition:all 0.4s ease;border-left:4px solid #f39c12;box-shadow:0 2px 8px rgba(0,0,0,0.05);">
     <strong>Chen, T.</strong>, Liu, J., Feng, S.*, Ke, J. 2025. Enhancing Autonomous Mobility on Demand Systems: A Hierarchical Repositioning Approach Integrating Regional-level and Route-level Decision. 
     <em>Proceedings of the TRB Annual Meeting 2025</em>, Washington, DC, USA, January 5–9, 2025.
   </li>
-  <li>
+  <li style="padding:18px;margin:12px 0;background:white;border-radius:10px;transition:all 0.4s ease;border-left:4px solid #f39c12;box-shadow:0 2px 8px rgba(0,0,0,0.05);">
     <strong>Chen, T.*</strong>, Liu, J., Feng, S., Ke, J. 2024. A Top-to-Bottom Reposition Method for Ride-hailing Platforms, 
     <em>Presented in the Conference in Emerging Technologies in Transportation Systems (TRC-30)</em>, Crete, Greece, September 2-4, 2024.
   </li>
-  <li>
+  <li style="padding:18px;margin:12px 0;background:white;border-radius:10px;transition:all 0.4s ease;border-left:4px solid #f39c12;box-shadow:0 2px 8px rgba(0,0,0,0.05);">
     <strong>Chen T.*</strong>, Liu J., Hu Z., Feng S., Ke J., 2024. A Top-to-Bottom Reposition Method for Ride-hailing Platforms. 
     <em>Proceedings of the 28th International Conference of Hong Kong Society for Transportation Studies</em>, HKSTS 2024: Transport and Equity, Hong Kong, December 9–10, 2024.
   </li>
-  <li>
+  <li style="padding:18px;margin:12px 0;background:white;border-radius:10px;transition:all 0.4s ease;border-left:4px solid #f39c12;box-shadow:0 2px 8px rgba(0,0,0,0.05);">
     <strong>Chen T.*</strong>, Liang J., Zhao Y., Ke J., 2024. To grab or not to grab? Revealing determinants of drivers’ willingness to grab orders under the broadcasting mode. 
     <em>Proceedings of the 28th International Conference of Hong Kong Society for Transportation Studies</em>, HKSTS 2024: Transport and Equity, Hong Kong, December 9–10, 2024.
   </li>
-  <li>
+  <li style="padding:18px;margin:12px 0;background:white;border-radius:10px;transition:all 0.4s ease;border-left:4px solid #f39c12;box-shadow:0 2px 8px rgba(0,0,0,0.05);">
     <strong>Chen T.*</strong>, Shen Z., Feng S., Ke J., 2023. TEB: A time series model for on-demand e-hailing matching in the broadcasting mode. 
     <em>Proceedings of the 28th International Conference of Hong Kong Society for Transportation Studies</em>, HKSTS 2023: Transport and Equity, Hong Kong, December 11–12, 2023.
   </li>
 </ul>
-</div>
+
 
 ---
 

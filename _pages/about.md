@@ -90,7 +90,7 @@ His research interests include <span class="highlight-text"><i class="fas fa-rob
   <div class="news-carousel">
     <div class="news-item">
       <span class="news-date">10/2025</span>
-      <span class="news-content">🎉 <strong>Congrats!</strong> Our paper <em>"Enhancing Autonomous Mobility on Demand Systems: A Hierarchical Repositioning Approach Integrating Regional-level and Route-level Decision"</em> has been accepted by <strong>Transportation Research Part C</strong>.</span>
+      <span class="news-content">🎉 <strong>Congrats!</strong> Our paper <em>"Enhancing Autonomous Mobility on Demand Systems: A Hierarchical Repositioning Approach Integrating Regional-level and Route-level Decision"</em> has been accepted by <strong>IEEE TITS</strong>.</span>
     </div>
     <div class="news-item">
       <span class="news-date">07/2025</span>
@@ -198,4 +198,4 @@ His research interests include <span class="highlight-text"><i class="fas fa-rob
 
 ---
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2Fn4m2hY1SgpaARN_eQNld7R4iIDB0cu_F-vPYzASgg&cl=ffffff&t=tt&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2Fn4m2hY1SgpaARN_eQNld7R4iIDB0cu_F-vPYzASgg&cl=ffffff&t=tt&w=300"></script>

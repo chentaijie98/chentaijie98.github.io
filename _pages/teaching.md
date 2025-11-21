@@ -37,12 +37,6 @@ As a dedicated educator, I have been involved in teaching activities at both <st
 {{ post.excerpt | markdownify }}
 </div>
 {% endif %}
-
-<p style="margin:15px 0 0 0;">
-<a href="{{ post.url }}" class="styled-link" style="font-size:15px;">
-<i class="fas fa-arrow-right"></i> View Details
-</a>
-</p>
 </div>
 {% endfor %}
 

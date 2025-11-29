@@ -25,7 +25,7 @@ Member of the <strong><a href="https://sites.google.com/view/kejintao/home" clas
 <em>"Real-time Matching for Large-scale On-demand Mobility with Mixed Autonomy: A Learning-based Dynamic Approach".</em>
 </p>
 <p style="margin:8px 0;">
-<span class="badge badge-warning"><i class="fas fa-edit"></i> Major Revision</span>
+<span class="badge badge-warning"><i class="fas fa-edit"></i> Preparing</span>
 </p>
 </div>
 
@@ -37,7 +37,7 @@ Member of the <strong><a href="https://sites.google.com/view/kejintao/home" clas
 <em>"Addressing Online Incremental Transport Mode Choice Prediction Problem with an LLM-Augmented Class-Incremental Learning Approach".</em>
 </p>
 <p style="margin:8px 0;">
-<span class="badge badge-warning"><i class="fas fa-edit"></i> Major Revision</span>
+<span class="badge badge-warning"><i class="fas fa-edit"></i> Under Review</span>
 </p>
 </div>
 

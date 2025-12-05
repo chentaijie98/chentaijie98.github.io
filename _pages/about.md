@@ -43,6 +43,12 @@ His research interests include <span class="highlight-text"><i class="fas fa-rob
 ## <i class="fas fa-briefcase" style="color:#764ba2;"></i> Work Experience and Internship
 
 <div class="work-experience-item">
+  <p style="margin:0;"><i class="fas fa-laptop-code"></i> <strong>Algorithm Engineer Intern</strong> <span class="badge badge-primary">Aug. 2025 - Current</span></p>
+  <p style="margin:5px 0 5px 30px;color:#555;"><em>Didi Chuxing</em></p>
+  <p style="margin:5px 0 0 30px;color:#666;font-size:14px;"><strong>Duties:</strong> Conduct research on a generative RL algorithm for auto-pricing in the ride-hailing market.</p>
+</div>
+
+<div class="work-experience-item">
   <p style="margin:0;"><i class="fas fa-laptop-code"></i> <strong>Algorithm Engineer Intern</strong> <span class="badge badge-primary">Jan. - Mar. 2023</span></p>
   <p style="margin:5px 0 5px 30px;color:#555;"><em>Huawei 2012 Laboratory (Riemann Laboratory)</em></p>
   <p style="margin:5px 0 0 30px;color:#666;font-size:14px;"><strong>Duties:</strong> Conduct research on ETA and EV's consumption prediction.</p>

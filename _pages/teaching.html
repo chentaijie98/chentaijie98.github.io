@@ -1,0 +1,43 @@
+---
+layout: clean
+title: "Teaching"
+permalink: /teaching/
+description: "Courses Taijie Chen has taught or assisted at the University of Hong Kong and Nankai University."
+---
+{% include base_path %}
+
+<header class="page-header reveal">
+  <h1>Teaching</h1>
+  <p>
+    Courses I have contributed to as a teaching assistant and instructor at the University of Hong Kong
+    and Nankai University.
+  </p>
+</header>
+
+<section class="section reveal">
+  <div class="card">
+    <h2 class="section-title">
+      <i class="fas fa-chalkboard-user" aria-hidden="true"></i> Courses
+      <span class="count">{{ site.teaching | size }} courses</span>
+    </h2>
+    <ul class="blocks">
+      {% assign courses = site.teaching | sort: "date" | reverse %}
+      {% for course in courses %}
+        <li>
+          <p class="block__title">{{ course.title }}</p>
+          <p class="block__sub">{{ course.venue }}</p>
+          <div class="block__meta">
+            <span><i class="fas fa-tag" aria-hidden="true"></i> {{ course.type }}</span>
+            <span><i class="fas fa-location-dot" aria-hidden="true"></i> {{ course.location }}</span>
+            <span><i class="far fa-calendar" aria-hidden="true"></i> {{ course.date | date: "%b %Y" }}</span>
+          </div>
+          {% if course.content %}
+            <div class="block__meta" style="display:block;margin-top:0.6rem;">
+              {{ course.content | strip_html | truncate: 420 }}
+            </div>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>

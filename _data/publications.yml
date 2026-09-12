@@ -1,0 +1,174 @@
+# Publication records rendered by _includes/pub-entry.html.
+#
+# group   : key into _data/research.yml themes (decision | foundation | mobility | simulation)
+# status  : leave empty for published work; otherwise the review stage shown as a pill
+# ranks   : indexing / venue tiers and impact factors shown as small pills
+# selected: appears in the "Selected Publications" section of the homepage
+# image   : omit when no figure is available; a venue placeholder tile is rendered instead
+
+- title: "D<sup>3</sup>-Subsidy: Online and Sequential Driver Subsidy Decision-Making for Large-Scale Ride-Hailing Market"
+  authors: "<strong>Chen, T.</strong>, Su, R., Feng, S., Zhang, L., Zhang, H., Wang, H., Ma, Z., Ke, J., &amp; Ma, L."
+  venue: "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Vol. 2 (KDD '26)"
+  venue_detail: "pp. 7094–7105"
+  venue_short: "KDD 2026"
+  year: 2026
+  group: decision
+  kind: conference
+  ranks: ["CCF-A"]
+  tags: ["Ride-Hailing", "Sequential Decision Making", "Subsidy Control"]
+  image: /images/research/d3subsidy.png
+  selected: true
+  links:
+    - { label: "Paper", icon: "fas fa-file-lines", url: "https://arxiv.org/abs/2605.20036" }
+    - { label: "DOI", icon: "ai ai-doi", url: "https://doi.org/10.1145/3770855.3818350" }
+
+- title: "T2BR: A Hierarchical Repositioning Approach for Autonomous Mobility-on-Demand Systems"
+  authors: "<strong>Chen, T.</strong>, Liu, J., Feng, S.<sup>✉</sup>, Qiu, J., &amp; Ke, J."
+  venue: "IEEE Transactions on Intelligent Transportation Systems"
+  venue_detail: "26(12), 23139–23150"
+  venue_short: "IEEE TITS"
+  year: 2025
+  group: decision
+  kind: journal
+  ranks: ["SCI-Q1 Top", "CCF-B", "IF 8.5"]
+  tags: ["Autonomous Mobility-on-Demand", "Reinforcement Learning", "Fleet Repositioning"]
+  image: /images/research/hierarchical_framework.png
+  selected: true
+  links:
+    - { label: "Paper", icon: "fas fa-file-lines", url: "https://ieeexplore.ieee.org/document/11220892" }
+
+- title: "Sequential Driver Subsidy Control for Large-Scale Ride-Hailing Platforms under Budget Constraints"
+  authors: "<strong>Chen, T.</strong>, Su, R., Feng, S.<sup>✉</sup>, Zhang, L., Wang, H., Liu, X., Zhang, H., Ma, Z., Ma, L., &amp; Ke, J.<sup>✉</sup>"
+  venue: "IEEE Transactions on Intelligent Transportation Systems"
+  venue_short: "IEEE TITS"
+  group: decision
+  kind: journal
+  status: "Under review"
+  tags: ["Ride-Hailing", "Constrained Optimization", "Subsidy Control"]
+
+- title: "Dynamic Matching Radius Decision Model for On-Demand Ride Services: A Deep Multi-Task Learning Approach"
+  authors: "<strong>Chen, T.</strong>, Shen, Z., Feng, S.<sup>✉</sup>, Yang, L., &amp; Ke, J."
+  venue: "Transportation Research Part E: Logistics and Transportation Review"
+  venue_detail: "193, 103822"
+  venue_short: "TR Part E"
+  year: 2025
+  group: decision
+  kind: journal
+  ranks: ["SCI-Q1 Top", "IF 8.3"]
+  tags: ["Ride-Hailing", "Multi-Task Learning", "Order Matching"]
+  image: /images/research/matching-radius.jpg
+  selected: true
+  links:
+    - { label: "Paper", icon: "fas fa-file-lines", url: "https://doi.org/10.1016/j.tre.2024.103822" }
+    - { label: "Code", icon: "fab fa-github", url: "https://github.com/HKU-Smart-Mobility-Lab/DL-MRD-Broadcasting" }
+
+- title: "Multipath: Deep Learning-Based Multimodal Route Guidance with User Preference Integration"
+  authors: "Shen, Z., <strong>Chen, T.</strong>, Zhou, B., &amp; Ke, J.<sup>✉</sup>"
+  venue: "Transportation Research Part E: Logistics and Transportation Review"
+  venue_short: "TR Part E"
+  group: decision
+  kind: journal
+  status: "Major revision"
+  tags: ["Multimodal Routing", "Deep Learning", "User Preference"]
+
+- title: "Addressing the Online Incremental Transport Mode Choice Prediction Problem with an LLM-Augmented Class-Incremental Learning Approach"
+  authors: "<strong>Chen, T.</strong>, Shen, Z., Zhou, B., Liu, Y., Wang, S., &amp; Ke, J."
+  venue: "Transportation Research Part C: Emerging Technologies"
+  venue_detail: "188, 105709"
+  venue_short: "TR Part C"
+  year: 2026
+  group: foundation
+  kind: journal
+  ranks: ["SCI-Q1 Top", "IF 7.9"]
+  tags: ["LLM Augmentation", "Travel Behaviour", "Continual Learning"]
+  image: /images/research/incremental-prediction.png
+  selected: true
+  links:
+    - { label: "Paper", icon: "fas fa-file-lines", url: "https://doi.org/10.1016/j.trc.2026.105709" }
+
+- title: "Assisting Feature Discovery for Travel-Behaviour Regression with Iterative Large Language Model Agents"
+  authors: "<strong>Chen, T.</strong><sup>†</sup>, Su, R.<sup>†</sup>, Zhao, Y.<sup>✉</sup>, &amp; Ke, J."
+  venue: "Travel Behaviour and Society"
+  venue_short: "TBS"
+  group: foundation
+  kind: journal
+  status: "Under review"
+  tags: ["LLM Agents", "Feature Discovery", "Travel Behaviour"]
+
+- title: "Teaching-Inspired Integrated Prompting Framework: A Novel Approach for Enhancing Reasoning in Large Language Models"
+  authors: "Tan, W., Chen, D., Xue, J., Wang, Z., &amp; <strong>Chen, T.</strong><sup>✉</sup>"
+  venue: "Proceedings of the 31st International Conference on Computational Linguistics: Industry Track (COLING)"
+  venue_detail: "pp. 827–839"
+  venue_short: "COLING 2025"
+  year: 2025
+  group: foundation
+  kind: conference
+  ranks: ["CCF-B"]
+  tags: ["LLM Reasoning", "Prompt Design"]
+  image: /images/research/tip-framework.png
+  selected: true
+  links:
+    - { label: "Paper", icon: "fas fa-file-lines", url: "https://aclanthology.org/2025.coling-industry.69/" }
+    - { label: "arXiv", icon: "ai ai-arxiv", url: "https://arxiv.org/abs/2410.08068" }
+    - { label: "Code", icon: "fab fa-github", url: "https://github.com/SallyTan13/Teaching-Inspired-Prompting" }
+
+- title: "VISTA: Vision-Language Integrated Spatiotemporal Station Recommendation for Autonomous Taxi Fleets"
+  authors: "Jiang, Z., <strong>Chen, T.</strong>, Xu, J., Shen, Z., Zhou, B., &amp; Ke, J."
+  venue: "AAAI Conference on Artificial Intelligence (AAAI)"
+  venue_short: "AAAI 2027"
+  group: foundation
+  kind: conference
+  status: "Under review"
+  tags: ["Vision-Language Models", "Autonomous Taxi Fleets"]
+
+- title: "LAB-Tab: LLM-Augmented Bayesian Network Adaptation for Few-Shot Tabular Generation"
+  authors: "Shen, Z., <strong>Chen, T.</strong>, Zhou, B., Jiang, Z., &amp; Ke, J.<sup>✉</sup>"
+  venue: "AAAI Conference on Artificial Intelligence (AAAI)"
+  venue_short: "AAAI 2027"
+  group: foundation
+  kind: conference
+  status: "Under review"
+  tags: ["LLM Augmentation", "Bayesian Networks", "Tabular Generation"]
+  links:
+    - { label: "arXiv", icon: "ai ai-arxiv", url: "https://arxiv.org/abs/2608.01879" }
+
+- title: "To Grab or Not to Grab? Revealing Determinants of Drivers' Willingness to Grab Orders under the Broadcasting Mode"
+  authors: "<strong>Chen, T.</strong>, Liang, J., Zhao, Y.<sup>✉</sup>, &amp; Ke, J."
+  venue: "Travel Behaviour and Society"
+  venue_detail: "41, 101093"
+  venue_short: "TBS"
+  year: 2025
+  group: mobility
+  kind: journal
+  ranks: ["SSCI-Q1 Top", "IF 5.1"]
+  tags: ["Driver Behaviour", "Ride-Hailing", "Broadcasting Mode"]
+  image: /images/research/to-grab.jpg
+  selected: true
+  links:
+    - { label: "Paper", icon: "fas fa-file-lines", url: "https://doi.org/10.1016/j.tbs.2025.101093" }
+
+- title: "A Multi-Functional Simulation Platform for On-Demand Ride Service Operations"
+  authors: "Feng, S., <strong>Chen, T.</strong>, Zhang, Y., Ke, J.<sup>✉</sup>, Zheng, Z., &amp; Yang, H."
+  venue: "Communications in Transportation Research"
+  venue_detail: "4, 100141"
+  venue_short: "CTR"
+  year: 2024
+  group: simulation
+  kind: journal
+  ranks: ["SCI-Q1 Top", "IF 12.5"]
+  tags: ["Simulation Platform", "Open Source", "Ride-Sourcing"]
+  image: /images/research/simulator.jpg
+  selected: true
+  links:
+    - { label: "Paper", icon: "fas fa-file-lines", url: "https://doi.org/10.1016/j.commtr.2024.100141" }
+    - { label: "Code", icon: "fab fa-github", url: "https://github.com/HKU-Smart-Mobility-Lab/Transportation_Simulator" }
+    - { label: "Video", icon: "fab fa-youtube", url: "https://youtu.be/q25L7lr77ms" }
+
+- title: "SMARTSim: Scalable Multimodal AI-Friendly Rapid Transportation Simulator"
+  authors: "Wang, J., <strong>Chen, T.</strong>, &amp; Ke, J.<sup>✉</sup>"
+  venue: "Engineering Management"
+  venue_short: "Preprint"
+  group: simulation
+  kind: journal
+  status: "Major revision"
+  tags: ["Simulation", "Digital Twin", "Multimodal Transport"]

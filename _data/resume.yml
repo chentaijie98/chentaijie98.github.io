@@ -1,0 +1,149 @@
+# Structured CV content, mirroring "Taijie Chen [CV]".
+
+interests:
+  - Artificial Intelligence for Transportation Systems
+  - Learning-based Sequential Decision Making
+  - Human Mobility Intelligence and Foundation Models
+  - Transportation Digital Twins and Simulation
+
+education:
+  - degree: "Ph.D. in Transportation Engineering"
+    org: "The University of Hong Kong"
+    date: "Apr 2023 – Apr 2027 (expected)"
+    detail: 'Advisor: <a href="https://www.civil.hku.hk/kejintao/" target="_blank" rel="noopener">Prof. Jintao Ke</a> · HKU Smart Mobility Lab'
+  - degree: "Visiting Ph.D. Student"
+    org: "École Polytechnique Fédérale de Lausanne (EPFL)"
+    date: "Mar 2026 – Sept 2026"
+    detail: 'Host: <a href="https://people.epfl.ch/nikolas.geroliminis" target="_blank" rel="noopener">Prof. Nicolas Geroliminis</a> · Urban Transport Systems Laboratory'
+  - degree: "M.S. in Computer Science"
+    org: "The University of Hong Kong"
+    date: "Sept 2021 – Dec 2022"
+  - degree: "B.E. in Software Engineering"
+    org: "Nankai University"
+    date: "Sept 2017 – Jun 2021"
+
+experience:
+  - role: "Research Intern"
+    org: "Noah's Ark Lab, Huawei"
+    date: "Sep 2026 – Present"
+    detail: "LLM agent design for domain-specific tasks and LLM post-training."
+  - role: "Research Intern"
+    org: "Didi Chuxing"
+    date: "Jul 2025 – Feb 2026"
+    detail: "Formulated dynamic pricing as a constrained MDP and designed a reinforcement learning algorithm to solve it."
+  - role: "Research Intern"
+    org: "Didi Chuxing"
+    date: "Nov 2022 – Jul 2023"
+    detail: "Time-series models for electric-vehicle anomaly detection."
+  - role: "Research Assistant"
+    org: "The Hong Kong University of Science and Technology"
+    date: "Aug 2022 – Mar 2023"
+    detail: "Reinforcement learning methods for vehicle dispatching and repositioning."
+
+projects:
+  - title: "SmartSim: AI-assisted Simulation Software for Multimodal Transportation Operations"
+    funder: "Smart Traffic Fund, Hong Kong SAR Government"
+    grant: "PSRI/78/2311/RA"
+    role: "Core Member"
+    date: "Sep 2024 – Aug 2026"
+  - title: "A Study on Spatiotemporal Supply-Demand Regulation in the Ride-Hailing Scenario"
+    funder: "CCF-DiDi GAIA Collaborative Research Fund"
+    grant: "202410"
+    role: "Core Member"
+    date: "Sep 2024 – Sep 2025"
+    amount: "RMB ¥250,000"
+  - title: "Development of a Simulation Platform and Artificial Intelligence Algorithms for Optimising Operation and Management of Taxi E-hailing Services"
+    funder: "Smart Traffic Fund, Hong Kong SAR Government"
+    grant: "PSRI/29/2201/PR"
+    role: "Project Manager"
+    date: "Mar 2023 – Sep 2024"
+  - title: "Digital Inheritance of Intangible Cultural Heritage Based on VR Technology — a Case Study of Tianjin's “Clay Figure Zhang” Culture"
+    funder: "Tianjin Innovation and Entrepreneurship Training Project"
+    grant: "201910055373"
+    role: "Principal Investigator"
+    date: "Sep 2019 – Sep 2024"
+    amount: "RMB ¥10,000"
+
+patents:
+  - title: "An AI-based System for Simulating a Transportation Network"
+    inventors: "Ke, J., <strong>Chen, T.</strong>, Wang, J."
+    office: "Hong Kong Standard Patent (Original Grant)"
+    number: "22025109703.0"
+    date: "Filed 10 Jul 2025"
+    detail: "Claiming priority to U.S. Patent Application No. 63/669,387."
+  - title: "基于类别增量的可扩充出行选择预测系统"
+    title_en: "An Expandable Travel Choice Prediction System Based on Class-Incremental Learning"
+    inventors: "Ke, J., <strong>Chen, T.</strong>"
+    office: "China Patent"
+    number: "2026105953942"
+    date: "Filed 30 Apr 2026"
+  - title: "一种用于管理出行服务的方法和装置"
+    title_en: "A Method and Apparatus for Managing Mobility Services"
+    inventors: "<strong>Chen, T.</strong>, Zhang, L., Ma, L., Ma, Z., Wang, H., Feng, S., Su, R."
+    office: "China Patent Application"
+    number: "202610230692.1"
+    date: "Filed 26 Feb 2026"
+  - title: "一种用于管理出行服务的方法和装置"
+    title_en: "A Method and Apparatus for Managing Mobility Services"
+    inventors: "Su, R., Zhang, L., Ma, L., Ma, Z., Wang, H., Feng, S., <strong>Chen, T.</strong>"
+    office: "China Patent Application"
+    number: "202610230690.2"
+    date: "Filed 26 Feb 2026"
+  - title: "基于行为感知的混合自动驾驶共享出行司乘匹配方法"
+    title_en: "A Behaviour-Aware Driver–Passenger Matching Method for Mixed-Autonomy Shared Mobility"
+    inventors: "Ke, J., <strong>Chen, T.</strong>, Wang, J."
+    office: "China Patent Application"
+    number: "202511647569.1"
+    date: "Filed 11 Nov 2025"
+
+awards:
+  - { title: "Zhungeer Banner Rising Star Scholarship", year: "2025" }
+  - { title: "HKU Postgraduate Scholarship", year: "2023–2027" }
+  - { title: "Third Prize, China “Internet +” Competition, Tianjin Division", year: "2020" }
+  - { title: "Social Welfare Scholarship, Nankai University", year: "2020" }
+  - { title: "Innovation and Entrepreneurship Scholarship, Nankai University", year: "2020" }
+  - { title: "Academic Excellence Scholarship, Nankai University", year: "2019" }
+
+services:
+  - { title: "Reviewer, Transportation Research Board (TRB) Annual Meeting", year: "" }
+  - { title: "Student Helper, 27th International Conference of the Hong Kong Society for Transportation Studies (HKSTS)", year: "2023" }
+  - { title: "Student Helper, 9th International Symposium on Transport Network Resilience", year: "" }
+
+# Rendered as a "Journal Reviewer" subsection under Academic Service.
+journal_reviews:
+  - "Transportation Research Part C: Emerging Technologies"
+  - "Travel Behaviour and Society"
+  - "Transportation Planning and Technology"
+  - "Cluster Computing"
+
+presentations:
+  - authors: "<strong>Chen, T.</strong>, Liu, J., Feng, S.<sup>✉</sup>, Ke, J."
+    title: "Enhancing Autonomous Mobility-on-Demand Systems: A Hierarchical Repositioning Approach Integrating Regional-level and Route-level Decisions"
+    venue: "Transportation Research Board (TRB) 99th Annual Meeting"
+    place: "Washington, DC, USA"
+    date: "Jan 2025"
+  - authors: "<strong>Chen, T.</strong><sup>✉</sup>, Liu, J., Feng, S., Ke, J."
+    title: "A Top-to-Bottom Repositioning Method for Ride-Hailing Platforms"
+    venue: "Conference in Emerging Technologies in Transportation Systems (TRC-30)"
+    place: "Crete, Greece"
+    date: "Sep 2024"
+  - authors: "<strong>Chen, T.</strong><sup>✉</sup>, Liu, J., Hu, Z., Feng, S., Ke, J."
+    title: "A Top-to-Bottom Repositioning Method for Ride-Hailing Platforms"
+    venue: "28th International Conference of the Hong Kong Society for Transportation Studies (HKSTS)"
+    place: "Hong Kong"
+    date: "Dec 2024"
+  - authors: "<strong>Chen, T.</strong><sup>✉</sup>, Liang, J., Zhao, Y., Ke, J."
+    title: "To Grab or Not to Grab? Revealing Determinants of Drivers' Willingness to Grab Orders under the Broadcasting Mode"
+    venue: "28th International Conference of the Hong Kong Society for Transportation Studies (HKSTS)"
+    place: "Hong Kong"
+    date: "Dec 2024"
+  - authors: "<strong>Chen, T.</strong><sup>✉</sup>, Shen, Z., Feng, S., Ke, J."
+    title: "TEB: A Time-Series Model for On-Demand E-Hailing Matching in the Broadcasting Mode"
+    venue: "27th International Conference of the Hong Kong Society for Transportation Studies (HKSTS)"
+    place: "Hong Kong"
+    date: "Dec 2023"
+
+software_copyrights:
+  - { title: "Teaching resource network management system based on knowledge graph", number: "2021SR0651132" }
+  - { title: "Teaching resource network making system based on knowledge graph", number: "2021SR0651080" }
+  - { title: "Teaching resource network display system based on knowledge graph", number: "2021SR0651130" }

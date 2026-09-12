@@ -1,0 +1,151 @@
+---
+layout: clean
+title: "Home"
+permalink: /
+description: "Taijie Chen is a Ph.D. candidate in Transportation Engineering at the University of Hong Kong, working on artificial intelligence for next-generation mobility systems."
+clustrmaps: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+{% include base_path %}
+
+<section class="card profile reveal">
+  <div class="profile__top">
+    <div class="profile__body">
+      <h1 class="profile__name">Taijie Chen<span class="zh">陈泰劼</span></h1>
+
+      <p class="profile__role">
+        Ph.D. Candidate in Transportation Engineering, <strong>The University of Hong Kong</strong><br>
+        Research Intern, <strong>Noah's Ark Lab, Huawei</strong>
+      </p>
+
+      <div class="profile__meta">
+        <span><i class="fas fa-location-dot" aria-hidden="true"></i> Hong Kong SAR, China</span>
+        <span><i class="fas fa-flask" aria-hidden="true"></i> HKU Smart Mobility Lab</span>
+      </div>
+    </div>
+
+    <div class="profile__photo">
+      <img src="{{ base_path }}/images/profile.jpg" alt="Portrait of Taijie Chen">
+    </div>
+  </div>
+
+  <div class="profile__bio">
+    <p>
+      I am a Ph.D. candidate in Transportation Engineering at the University of Hong Kong, advised by
+      <a class="underline" href="https://www.civil.hku.hk/kejintao/" target="_blank" rel="noopener">Prof. Jintao Ke</a>.
+      In 2026 I spent six months at EPFL as a visiting Ph.D. student, hosted by
+      <a class="underline" href="https://people.epfl.ch/nikolas.geroliminis" target="_blank" rel="noopener">Prof. Nicolas Geroliminis</a>
+      at the Urban Transport Systems Laboratory.
+      I hold an M.S. in Computer Science from HKU and a B.E. in Software Engineering from Nankai University.
+    </p>
+    <p>
+      My research develops artificial intelligence methodologies for next-generation mobility systems. I work on
+      three connected questions: how to make <strong>learning-based decisions</strong> on large-scale transportation
+      platforms, how to capture <strong>human mobility intelligence</strong> with machine learning and foundation
+      models, and how to build <strong>AI-enabled simulation and digital twins</strong> that let those methods be
+      analysed and optimised before deployment. Much of this work is done with industry partners and evaluated on
+      real ride-hailing operations.
+    </p>
+
+    <ul class="interests">
+      {% for item in site.data.resume.interests %}<li>{{ item }}</li>{% endfor %}
+    </ul>
+  </div>
+
+  <div class="contact-row">
+    <a href="mailto:ctj21@connect.hku.hk"><i class="fas fa-envelope" aria-hidden="true"></i> Email</a>
+    <a href="{{ base_path }}/files/CV-Taijie-Chen.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf" aria-hidden="true"></i> CV</a>
+    <a href="https://scholar.google.com/citations?user=ELY31RgAAAAJ" target="_blank" rel="noopener"><i class="ai ai-google-scholar" aria-hidden="true"></i> Google Scholar</a>
+    <a href="https://github.com/chentaijie98" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>
+    <a href="https://www.researchgate.net/profile/Taijie_Chen2" target="_blank" rel="noopener"><i class="ai ai-researchgate" aria-hidden="true"></i> ResearchGate</a>
+  </div>
+</section>
+
+<section class="section reveal">
+  <div class="card">
+    <h2 class="section-title"><i class="fas fa-bullhorn" aria-hidden="true"></i> News</h2>
+    <ul class="news">
+      {% for item in site.data.news %}
+        <li>
+          <span class="news__date">{{ item.date }}</span>
+          <span class="news__text">{{ item.text }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="section reveal">
+  <div class="card">
+    <div class="grid-2">
+      <div>
+        <h2 class="section-title"><i class="fas fa-graduation-cap" aria-hidden="true"></i> Education</h2>
+        <ul class="entries">
+          {% for item in site.data.resume.education %}
+            <li>
+              <div class="entry__head">
+                <span class="entry__title">{{ item.degree }}</span>
+                <span class="entry__date">{{ item.date }}</span>
+              </div>
+              <div class="entry__org">{{ item.org }}</div>
+              {% if item.detail %}<div class="entry__detail">{{ item.detail }}</div>{% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      <div>
+        <h2 class="section-title"><i class="fas fa-briefcase" aria-hidden="true"></i> Experience</h2>
+        <ul class="entries">
+          {% for item in site.data.resume.experience %}
+            <li>
+              <div class="entry__head">
+                <span class="entry__title">{{ item.role }}</span>
+                <span class="entry__date">{{ item.date }}</span>
+              </div>
+              <div class="entry__org">{{ item.org }}</div>
+              {% if item.detail %}<div class="entry__detail">{{ item.detail }}</div>{% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+{% assign selected = site.data.publications | where: "selected", true %}
+<section class="section reveal">
+  <div class="card">
+    <h2 class="section-title">
+      <i class="fas fa-book-open" aria-hidden="true"></i> Selected Publications
+      <span class="count">{{ site.data.publications | size }} total</span>
+    </h2>
+    <ul class="pubs">
+      {% for pub in selected %}{% include pub-entry.html pub=pub %}{% endfor %}
+    </ul>
+    <a class="more-link" href="{{ base_path }}/publications/">See all publications <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+  </div>
+</section>
+
+<section class="section reveal">
+  <div class="card">
+    <h2 class="section-title"><i class="fas fa-handshake" aria-hidden="true"></i> Academic Service</h2>
+    <ul class="facts">
+      {% for item in site.data.resume.services %}
+        <li>
+          <span class="facts__label">{{ item.title }}</span>
+          {% if item.year %}<span class="facts__year">{{ item.year }}</span>{% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+
+    <h3 class="subsection-title">Journal Reviewer</h3>
+    <ul class="facts">
+      {% for journal in site.data.resume.journal_reviews %}
+        <li><span class="facts__label">{{ journal }}</span></li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>

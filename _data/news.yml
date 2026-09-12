@@ -1,0 +1,68 @@
+# Homepage news feed, newest first. `date` is free text (rendered in a mono font).
+
+- date: "09/2026"
+  text: >-
+    🚀 Started a research internship at <strong>Noah's Ark Lab, Huawei</strong>, working on
+    domain-specific LLM agents and LLM post-training.
+
+- date: "09/2026"
+  text: >-
+    🇨🇭 Completed my six-month visiting Ph.D. at <strong>EPFL</strong> with Prof. Nicolas
+    Geroliminis at the Urban Transport Systems Laboratory.
+
+- date: "08/2026"
+  text: >-
+    📄 Preprint <em>"LAB-Tab: LLM-Augmented Bayesian Network Adaptation for Few-Shot Tabular
+    Generation"</em> is available on
+    <a href="https://arxiv.org/abs/2608.01879" target="_blank" rel="noopener">arXiv</a>.
+
+- date: "05/2026"
+  text: >-
+    🎉 Our paper <em>"D<sup>3</sup>-Subsidy: Online and Sequential Driver Subsidy Decision-Making
+    for Large-Scale Ride-Hailing Market"</em> has been accepted by <strong>ACM SIGKDD (KDD 2026)</strong>.
+
+- date: "04/2026"
+  text: >-
+    🎉 Our paper <em>"Addressing the Online Incremental Transport Mode Choice Prediction Problem
+    with an LLM-Augmented Class-Incremental Learning Approach"</em> has been accepted by
+    <strong>Transportation Research Part C</strong>.
+
+- date: "03/2026"
+  text: >-
+    ✈️ Started a visiting Ph.D. at <strong>EPFL</strong>, hosted by Prof. Nicolas Geroliminis at
+    the Urban Transport Systems Laboratory.
+
+- date: "10/2025"
+  text: >-
+    🎉 Our paper <em>"T2BR: A Hierarchical Repositioning Approach for Autonomous
+    Mobility-on-Demand Systems"</em> has been accepted by <strong>IEEE TITS</strong>.
+
+- date: "07/2025"
+  text: >-
+    🎉 Our paper <em>"To Grab or Not to Grab? Revealing Determinants of Drivers' Willingness to
+    Grab Orders under the Broadcasting Mode"</em> has been accepted by
+    <strong>Travel Behaviour and Society</strong>.
+
+- date: "11/2024"
+  text: >-
+    🎉 Our paper <em>"Teaching-Inspired Integrated Prompting Framework"</em> has been accepted by
+    the <strong>31st International Conference on Computational Linguistics (COLING 2025)</strong>.
+
+- date: "10/2024"
+  text: >-
+    🎉 Our paper <em>"Dynamic Matching Radius Decision Model for On-Demand Ride Services"</em>
+    has been accepted by <strong>Transportation Research Part E</strong>.
+
+- date: "09/2024"
+  text: >-
+    📢 Presented <em>"A Top-to-Bottom Repositioning Method for Ride-Hailing Platforms"</em> at the
+    <strong>TRC-30 Symposium</strong> in Crete, Greece.
+
+- date: "12/2023"
+  text: >-
+    🎓 Attended the <a href="http://www.hksts.org/conf.htm" target="_blank" rel="noopener">27th
+    International Conference of the Hong Kong Society for Transportation Studies (HKSTS)</a>
+    and gave a poster presentation.
+
+- date: "04/2023"
+  text: "🎒 Began my Ph.D. journey at the University of Hong Kong."

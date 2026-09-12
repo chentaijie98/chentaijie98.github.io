@@ -1,0 +1,89 @@
+---
+layout: clean
+title: "Publications"
+permalink: /publications/
+description: "Journal articles, conference papers, preprints, patents, and conference presentations by Taijie Chen."
+---
+{% include base_path %}
+
+<header class="page-header reveal">
+  <h1>Publications</h1>
+  <p>
+    Grouped by research theme, newest first within each theme.
+    <sup>✉</sup> denotes the corresponding author and <sup>†</sup> equal contribution.
+    A full list is also available on
+    <a class="underline" href="https://scholar.google.com/citations?user=ELY31RgAAAAJ" target="_blank" rel="noopener">Google Scholar</a>.
+  </p>
+</header>
+
+<section class="section reveal">
+  <div class="card">
+    <h2 class="section-title">
+      <i class="fas fa-book-open" aria-hidden="true"></i> Papers
+      <span class="count">{{ site.data.publications | size }} entries</span>
+    </h2>
+
+    {% for theme in site.data.research.themes %}
+      {% assign group = site.data.publications | where: "group", theme.key %}
+      {% if group.size > 0 %}
+        <h3 class="subsection-title">{{ theme.name }}</h3>
+        <ul class="pubs">
+          {% for pub in group %}{% include pub-entry.html pub=pub %}{% endfor %}
+        </ul>
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
+
+<section class="section reveal">
+  <div class="card">
+    <h2 class="section-title"><i class="fas fa-microphone-lines" aria-hidden="true"></i> Conference Presentations</h2>
+    <ul class="blocks">
+      {% for item in site.data.resume.presentations %}
+        <li>
+          <p class="block__title">{{ item.title }}</p>
+          <p class="block__sub">{{ item.authors }}</p>
+          <div class="block__meta">
+            <span><i class="fas fa-location-dot" aria-hidden="true"></i> {{ item.venue }}, {{ item.place }}</span>
+            <span><i class="far fa-calendar" aria-hidden="true"></i> {{ item.date }}</span>
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="section reveal">
+  <div class="card">
+    <h2 class="section-title"><i class="fas fa-certificate" aria-hidden="true"></i> Patents</h2>
+    <ul class="blocks">
+      {% for item in site.data.resume.patents %}
+        <li>
+          {% if item.title %}<p class="block__title">{{ item.title }}</p>{% endif %}
+          {% if item.title_en %}<p class="block__sub"><em>{{ item.title_en }}</em></p>{% endif %}
+          <p class="block__sub">{{ item.inventors }}</p>
+          <div class="block__meta">
+            <span><i class="fas fa-stamp" aria-hidden="true"></i> {{ item.office }}</span>
+            <span><i class="fas fa-hashtag" aria-hidden="true"></i> {{ item.number }}</span>
+            <span><i class="far fa-calendar" aria-hidden="true"></i> {{ item.date }}</span>
+          </div>
+          {% if item.detail %}<div class="block__meta"><span>{{ item.detail }}</span></div>{% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="section reveal">
+  <div class="card">
+    <h2 class="section-title"><i class="fas fa-copyright" aria-hidden="true"></i> Software Copyrights</h2>
+    <ul class="facts">
+      {% for item in site.data.resume.software_copyrights %}
+        <li>
+          <span class="facts__label">{{ item.title }}</span>
+          <span class="facts__year">No. {{ item.number }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>

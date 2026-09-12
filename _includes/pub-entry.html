@@ -1,0 +1,46 @@
+{% assign pub = include.pub %}
+{% include base_path %}
+<li class="pub reveal">
+  <div class="pub__thumb{% unless pub.image %} pub__thumb--empty{% endunless %}">
+    {% if pub.image %}
+      <img src="{{ base_path }}{{ pub.image }}" alt="{{ pub.title | escape }}" loading="lazy">
+    {% else %}
+      <span>{{ pub.venue_short | default: "Preprint" }}</span>
+    {% endif %}
+  </div>
+
+  <div class="pub__body">
+    {% if pub.tags %}
+      <div class="pub__tags">
+        {% for tag in pub.tags %}<span class="tag">{{ tag }}</span>{% endfor %}
+      </div>
+    {% endif %}
+
+    <h3 class="pub__title">{{ pub.title }}</h3>
+    <p class="pub__authors">{{ pub.authors }}</p>
+    <p class="pub__venue">
+      <em>{{ pub.venue }}</em>{% if pub.venue_detail %}, {{ pub.venue_detail }}{% endif %}{% if pub.year %}, <span class="year">{{ pub.year }}</span>{% endif %}.
+    </p>
+
+    {% if pub.status or pub.ranks %}
+      <div class="pub__meta">
+        {% if pub.status %}<span class="status status--review">{{ pub.status }}</span>{% endif %}
+        {% for rank in pub.ranks %}
+          {% if rank contains "IF" %}
+            <span class="status status--metric">{{ rank }}</span>
+          {% else %}
+            <span class="status status--rank">{{ rank }}</span>
+          {% endif %}
+        {% endfor %}
+      </div>
+    {% endif %}
+
+    {% if pub.links %}
+      <div class="pub__links">
+        {% for link in pub.links %}
+          <a href="{{ link.url }}" target="_blank" rel="noopener"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i>{{ link.label }}</a>
+        {% endfor %}
+      </div>
+    {% endif %}
+  </div>
+</li>

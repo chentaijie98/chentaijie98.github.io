@@ -1,0 +1,116 @@
+---
+layout: clean
+title: "Research"
+permalink: /research/
+description: "Research themes, funded projects, and collaborations of Taijie Chen at the HKU Smart Mobility Lab."
+---
+{% include base_path %}
+
+<header class="page-header reveal">
+  <h1>Research</h1>
+  <p>
+    My research develops artificial intelligence methodologies for next-generation mobility systems,
+    spanning learning-based decision making, foundation models for urban computing, human mobility
+    behaviour, and AI-enabled simulation.
+  </p>
+</header>
+
+<section class="section reveal">
+  <div class="card">
+    <h2 class="section-title"><i class="fas fa-compass" aria-hidden="true"></i> Research Themes</h2>
+    <ul class="themes">
+      {% for theme in site.data.research.themes %}
+        {% assign group = site.data.publications | where: "group", theme.key %}
+        <li class="theme">
+          <span class="theme__icon"><i class="{{ theme.icon }}" aria-hidden="true"></i></span>
+          <h3>{{ theme.short }}</h3>
+          <p>{{ theme.summary }}</p>
+          <div class="pub__meta">
+            <span class="status status--rank">{{ group.size }} paper{% if group.size != 1 %}s{% endif %}</span>
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+    <a class="more-link" href="{{ base_path }}/publications/">Browse papers by theme <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+  </div>
+</section>
+
+<section class="section reveal">
+  <div class="card">
+    <h2 class="section-title"><i class="fas fa-users" aria-hidden="true"></i> Affiliations</h2>
+    <ul class="entries">
+      <li>
+        <div class="entry__head">
+          <span class="entry__title">HKU Smart Mobility Lab</span>
+          <span class="entry__date">2023 – present</span>
+        </div>
+        <div class="entry__org">Department of Civil Engineering, The University of Hong Kong</div>
+        <div class="entry__detail">
+          Principal Investigator:
+          <a href="https://www.civil.hku.hk/kejintao/" target="_blank" rel="noopener">Prof. Jintao Ke</a>
+        </div>
+      </li>
+      <li>
+        <div class="entry__head">
+          <span class="entry__title">Urban Transport Systems Laboratory (LUTS)</span>
+          <span class="entry__date">Mar – Sep 2026</span>
+        </div>
+        <div class="entry__org">École Polytechnique Fédérale de Lausanne (EPFL)</div>
+        <div class="entry__detail">
+          Host:
+          <a href="https://people.epfl.ch/nikolas.geroliminis" target="_blank" rel="noopener">Prof. Nicolas Geroliminis</a>
+        </div>
+      </li>
+    </ul>
+  </div>
+</section>
+
+<section class="section reveal">
+  <div class="card">
+    <h2 class="section-title">
+      <i class="fas fa-diagram-project" aria-hidden="true"></i> Funded Projects
+      <span class="count">{{ site.data.resume.projects | size }} projects</span>
+    </h2>
+    <ul class="blocks">
+      {% for item in site.data.resume.projects %}
+        <li>
+          <p class="block__title"><span class="role">{{ item.role }}</span>{{ item.title }}</p>
+          <p class="block__sub">{{ item.funder }}{% if item.grant %} · {{ item.grant }}{% endif %}</p>
+          <div class="block__meta">
+            <span><i class="far fa-calendar" aria-hidden="true"></i> {{ item.date }}</span>
+            {% if item.amount %}<span><i class="fas fa-coins" aria-hidden="true"></i> {{ item.amount }}</span>{% endif %}
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="section reveal">
+  <div class="card">
+    <h2 class="section-title"><i class="fas fa-code-branch" aria-hidden="true"></i> Open-Source Software</h2>
+    <ul class="blocks">
+      <li>
+        <p class="block__title">Transportation Simulator</p>
+        <p class="block__sub">
+          A multi-functional simulation platform for on-demand ride service operations, supporting order
+          matching, idle-vehicle repositioning, dynamic pricing, and reinforcement learning experiments.
+        </p>
+        <div class="pub__links">
+          <a href="https://github.com/HKU-Smart-Mobility-Lab/Transportation_Simulator" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i>Repository</a>
+          <a href="https://youtu.be/q25L7lr77ms" target="_blank" rel="noopener"><i class="fab fa-youtube" aria-hidden="true"></i>Demo</a>
+        </div>
+      </li>
+      <li>
+        <p class="block__title">DL-MRD-Broadcasting</p>
+        <p class="block__sub">
+          Deep multi-task learning models for dynamic matching radius decisions in on-demand ride services
+          under the broadcasting mode.
+        </p>
+        <div class="pub__links">
+          <a href="https://github.com/HKU-Smart-Mobility-Lab/DL-MRD-Broadcasting" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i>Repository</a>
+        </div>
+      </li>
+    </ul>
+  </div>
+</section>

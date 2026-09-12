@@ -1,0 +1,35 @@
+# Research themes. `key` matches the `group` field in _data/publications.yml.
+
+themes:
+  - key: decision
+    name: "Learning-based Decision Making and Optimization for Mobility Systems"
+    short: "Decision Making & Optimization"
+    icon: "fas fa-diagram-project"
+    summary: >-
+      Sequential decision making for large-scale mobility platforms: driver subsidy
+      control under budget constraints, fleet repositioning for autonomous
+      mobility-on-demand, order matching, and dynamic pricing.
+  - key: foundation
+    name: "Foundation Models and LLMs for Urban Computing"
+    short: "Foundation Models & LLMs"
+    icon: "fas fa-comment-dots"
+    summary: >-
+      Using large language and vision-language models as reasoning, augmentation, and
+      agentic components in urban prediction pipelines — from class-incremental travel
+      mode choice to iterative feature discovery and few-shot tabular generation.
+  - key: mobility
+    name: "Human Mobility Intelligence and Behavioural Modelling"
+    short: "Mobility & Behaviour"
+    icon: "fas fa-person-walking"
+    summary: >-
+      Empirical and learning-based analysis of how travellers and drivers actually
+      behave, so that platform algorithms are designed against realistic
+      human responses rather than idealised assumptions.
+  - key: simulation
+    name: "AI-enabled Transportation Simulation and Digital Twins"
+    short: "Simulation & Digital Twins"
+    icon: "fas fa-cubes"
+    summary: >-
+      Open, scalable simulation infrastructure for on-demand and multimodal transport,
+      providing reproducible testbeds for matching, repositioning, pricing, and
+      reinforcement learning research.

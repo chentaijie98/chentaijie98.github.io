@@ -1,0 +1,26 @@
+---
+layout: clean
+---
+
+<header class="page-header reveal">
+  {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+  {% if page.collection == 'teaching' %}
+    <p>{{ page.type }} · <em>{{ page.venue }}</em>{% if page.location %} · {{ page.location }}{% endif %}{% if page.date %} · {{ page.date | date: "%b %Y" }}{% endif %}</p>
+  {% elsif page.venue and page.date %}
+    <p>Published in <em>{{ page.venue }}</em>, {{ page.date | date: "%Y" }}</p>
+  {% elsif page.date %}
+    <p>{{ page.date | date: "%B %-d, %Y" }}</p>
+  {% endif %}
+</header>
+
+<section class="section reveal">
+  <article class="card prose">
+    {{ content }}
+    {% if page.citation %}
+      <p class="note">Recommended citation: {{ page.citation }}{% if page.paperurl %} <a href="{{ page.paperurl }}">{{ page.paperurl }}</a>{% endif %}</p>
+    {% endif %}
+    {% if page.link %}
+      <p><a class="btn" href="{{ page.link }}">Direct link <i class="fas fa-arrow-right" aria-hidden="true"></i></a></p>
+    {% endif %}
+  </article>
+</section>

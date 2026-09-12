@@ -1,0 +1,202 @@
+---
+layout: clean
+title: "Curriculum Vitae"
+permalink: /cv/
+description: "Curriculum vitae of Taijie Chen: education, experience, publications, patents, projects, awards, and teaching."
+redirect_from:
+  - /resume
+---
+{% include base_path %}
+
+<header class="page-header reveal">
+  <h1>Curriculum Vitae</h1>
+  <p>
+    Room 207, Haking Wong Building, The University of Hong Kong, Hong Kong SAR, China ·
+    <a class="underline" href="mailto:ctj21@connect.hku.hk">ctj21@connect.hku.hk</a>
+  </p>
+  <p style="margin-top:1rem;">
+    <a class="btn" href="{{ base_path }}/files/CV-Taijie-Chen.pdf" target="_blank" rel="noopener">
+      <i class="fas fa-file-pdf" aria-hidden="true"></i> Download PDF
+    </a>
+  </p>
+</header>
+
+<section class="section reveal">
+  <div class="card">
+    <h2 class="section-title"><i class="fas fa-graduation-cap" aria-hidden="true"></i> Education</h2>
+    <ul class="entries">
+      {% for item in site.data.resume.education %}
+        <li>
+          <div class="entry__head">
+            <span class="entry__title">{{ item.degree }}</span>
+            <span class="entry__date">{{ item.date }}</span>
+          </div>
+          <div class="entry__org">{{ item.org }}</div>
+          {% if item.detail %}<div class="entry__detail">{{ item.detail }}</div>{% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="section reveal">
+  <div class="card">
+    <h2 class="section-title"><i class="fas fa-compass" aria-hidden="true"></i> Research Interests</h2>
+    <ul class="interests">
+      {% for item in site.data.resume.interests %}<li>{{ item }}</li>{% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="section reveal">
+  <div class="card">
+    <h2 class="section-title"><i class="fas fa-briefcase" aria-hidden="true"></i> Research Experience</h2>
+    <ul class="entries">
+      {% for item in site.data.resume.experience %}
+        <li>
+          <div class="entry__head">
+            <span class="entry__title">{{ item.role }} · {{ item.org }}</span>
+            <span class="entry__date">{{ item.date }}</span>
+          </div>
+          {% if item.detail %}<div class="entry__detail">{{ item.detail }}</div>{% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="section reveal">
+  <div class="card">
+    <h2 class="section-title">
+      <i class="fas fa-book-open" aria-hidden="true"></i> Publications
+      <span class="count">{{ site.data.publications | size }} entries</span>
+    </h2>
+    {% for theme in site.data.research.themes %}
+      {% assign group = site.data.publications | where: "group", theme.key %}
+      {% if group.size > 0 %}
+        <h3 class="subsection-title">{{ theme.name }}</h3>
+        <ul class="blocks">
+          {% for pub in group %}
+            <li>
+              <p class="block__title">{{ pub.title }}</p>
+              <p class="block__sub">{{ pub.authors }}</p>
+              <p class="block__sub">
+                <em>{{ pub.venue }}</em>{% if pub.venue_detail %}, {{ pub.venue_detail }}{% endif %}{% if pub.year %}, {{ pub.year }}{% endif %}.
+              </p>
+              {% if pub.status or pub.ranks %}
+                <div class="pub__meta">
+                  {% if pub.status %}<span class="status status--review">{{ pub.status }}</span>{% endif %}
+                  {% for rank in pub.ranks %}
+                    {% if rank contains "IF" %}
+                      <span class="status status--metric">{{ rank }}</span>
+                    {% else %}
+                      <span class="status status--rank">{{ rank }}</span>
+                    {% endif %}
+                  {% endfor %}
+                </div>
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endfor %}
+    <p class="note"><sup>✉</sup> corresponding author · <sup>†</sup> equal contribution</p>
+    <a class="more-link" href="{{ base_path }}/publications/">Publications with figures and links <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+  </div>
+</section>
+
+<section class="section reveal">
+  <div class="card">
+    <h2 class="section-title"><i class="fas fa-certificate" aria-hidden="true"></i> Patents</h2>
+    <ul class="blocks">
+      {% for item in site.data.resume.patents %}
+        <li>
+          {% if item.title %}<p class="block__title">{{ item.title }}</p>{% endif %}
+          {% if item.title_en %}<p class="block__sub"><em>{{ item.title_en }}</em></p>{% endif %}
+          <p class="block__sub">{{ item.inventors }}</p>
+          <div class="block__meta">
+            <span><i class="fas fa-stamp" aria-hidden="true"></i> {{ item.office }}</span>
+            <span><i class="fas fa-hashtag" aria-hidden="true"></i> {{ item.number }}</span>
+            <span><i class="far fa-calendar" aria-hidden="true"></i> {{ item.date }}</span>
+          </div>
+          {% if item.detail %}<div class="block__meta"><span>{{ item.detail }}</span></div>{% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="section reveal">
+  <div class="card">
+    <h2 class="section-title"><i class="fas fa-diagram-project" aria-hidden="true"></i> Projects</h2>
+    <ul class="blocks">
+      {% for item in site.data.resume.projects %}
+        <li>
+          <p class="block__title"><span class="role">{{ item.role }}</span>{{ item.title }}</p>
+          <p class="block__sub">{{ item.funder }}{% if item.grant %} · {{ item.grant }}{% endif %}</p>
+          <div class="block__meta">
+            <span><i class="far fa-calendar" aria-hidden="true"></i> {{ item.date }}</span>
+            {% if item.amount %}<span><i class="fas fa-coins" aria-hidden="true"></i> {{ item.amount }}</span>{% endif %}
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="section reveal">
+  <div class="card">
+    <div class="grid-2">
+      <div>
+        <h2 class="section-title"><i class="fas fa-award" aria-hidden="true"></i> Awards &amp; Honours</h2>
+        <ul class="facts">
+          {% for item in site.data.resume.awards %}
+            <li>
+              <span class="facts__label">{{ item.title }}</span>
+              <span class="facts__year">{{ item.year }}</span>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div>
+        <h2 class="section-title"><i class="fas fa-handshake" aria-hidden="true"></i> Academic Service</h2>
+        <ul class="facts">
+          {% for item in site.data.resume.services %}
+            <li>
+              <span class="facts__label">{{ item.title }}</span>
+              {% if item.year %}<span class="facts__year">{{ item.year }}</span>{% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+
+        <h3 class="subsection-title">Journal Reviewer</h3>
+        <ul class="facts">
+          {% for journal in site.data.resume.journal_reviews %}
+            <li><span class="facts__label">{{ journal }}</span></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section reveal">
+  <div class="card">
+    <h2 class="section-title"><i class="fas fa-chalkboard-user" aria-hidden="true"></i> Teaching</h2>
+    <ul class="blocks">
+      {% assign courses = site.teaching | sort: "date" | reverse %}
+      {% for course in courses %}
+        <li>
+          <p class="block__title">{{ course.title }}</p>
+          <p class="block__sub">{{ course.venue }}</p>
+          <div class="block__meta">
+            <span><i class="fas fa-tag" aria-hidden="true"></i> {{ course.type }}</span>
+            <span><i class="fas fa-location-dot" aria-hidden="true"></i> {{ course.location }}</span>
+            <span><i class="far fa-calendar" aria-hidden="true"></i> {{ course.date | date: "%b %Y" }}</span>
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+    <a class="more-link" href="{{ base_path }}/teaching/">Course details <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+  </div>
+</section>

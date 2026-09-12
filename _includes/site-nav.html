@@ -1,0 +1,29 @@
+{% include base_path %}
+<nav class="site-nav" aria-label="Main navigation">
+  <div class="site-nav__inner">
+    <a class="site-nav__brand" href="{{ base_path }}/">Taijie Chen<span class="zh">陈泰劼</span></a>
+
+    <ul class="site-nav__links">
+      {% for link in site.data.navigation.main %}
+        {% assign target = link.url %}
+        {% unless link.url contains 'http' %}
+          {% assign target = base_path | append: link.url %}
+        {% endunless %}
+        <li>
+          <a href="{{ target }}"
+             {% if link.url contains 'http' or link.url contains '.pdf' %}target="_blank" rel="noopener"{% endif %}
+             {% if page.url == link.url %}class="is-active" aria-current="page"{% endif %}>{{ link.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+
+    <button class="theme-toggle" type="button" aria-label="Toggle dark mode">
+      <i class="fas fa-moon" aria-hidden="true"></i>
+      <i class="fas fa-sun" aria-hidden="true"></i>
+    </button>
+
+    <button class="site-nav__toggle" type="button" aria-expanded="false" aria-label="Toggle navigation">
+      <i class="fas fa-bars" aria-hidden="true"></i>
+    </button>
+  </div>
+</nav>

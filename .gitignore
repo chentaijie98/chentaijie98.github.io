@@ -1,4 +1,8 @@
 _site/
+.jekyll-cache/
 .DS_Store
 */.DS_Store
 
+# Local Jekyll gems and the offline preview renderer's output.
+.localgems/
+.preview/

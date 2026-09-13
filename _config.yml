@@ -5,7 +5,7 @@ locale                   : "en-US"
 title                    : "Taijie Chen"
 title_separator          : "·"
 name                     : &name "Taijie Chen"
-description              : &description "Ph.D. candidate in Transportation Engineering at the University of Hong Kong, working on artificial intelligence for next-generation mobility systems."
+description              : &description "Ph.D. candidate at the University of Hong Kong, working on artificial intelligence for next-generation mobility systems."
 url                      : https://chentaijie98.github.io
 baseurl                  : ""
 repository               : "chentaijie98/chentaijie98.github.io"

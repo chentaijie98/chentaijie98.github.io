@@ -6,6 +6,9 @@ permalink: /teaching/2020-summer-teaching-1
 venue: "Nankai University, Department of Software Engineering"
 date: 2020-07-01
 location: "Tianjin, China"
+summary: >-
+  Software development in C++ with the Qt component framework, taught as a hands-on laboratory
+  course.
 ---
 
 ### Description

@@ -6,6 +6,9 @@ permalink: /teaching/2024-spring-teaching-math
 venue: "The University of Hong Kong, Department of Mathematics"
 date: 2023-09-01
 location: "Hong Kong, China"
+summary: >-
+  Linear algebra, probability and statistics for engineering students, emphasising the mathematical
+  concepts and analysis that underpin the modelling of engineering systems.
 ---
 
 ### Description

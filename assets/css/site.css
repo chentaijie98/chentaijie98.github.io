@@ -911,6 +911,13 @@ html:not([data-theme="dark"]) .theme-toggle .fa-sun {
   gap: 0.3rem;
 }
 
+.block__text {
+  margin: 0.6rem 0 0;
+  font-size: 0.88rem;
+  line-height: 1.62;
+  color: var(--muted);
+}
+
 .role {
   font-size: 0.71rem;
   font-weight: 600;

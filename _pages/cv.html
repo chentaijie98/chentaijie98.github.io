@@ -192,7 +192,7 @@ redirect_from:
           <div class="block__meta">
             <span><i class="fas fa-tag" aria-hidden="true"></i> {{ course.type }}</span>
             <span><i class="fas fa-location-dot" aria-hidden="true"></i> {{ course.location }}</span>
-            <span><i class="far fa-calendar" aria-hidden="true"></i> {{ course.date | date: "%b %Y" }}</span>
+            <span><i class="far fa-calendar" aria-hidden="true"></i> {% if course.term %}{{ course.term }}{% else %}{{ course.date | date: "%b %Y" }}{% endif %}</span>
           </div>
         </li>
       {% endfor %}

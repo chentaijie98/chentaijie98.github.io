@@ -6,6 +6,10 @@ permalink: /teaching/2024-spring-teaching-AI_for_Civil
 venue: "The University of Hong Kong, Department of Civil Engineering"
 date: 2023-09-01
 location: "Hong Kong, China"
+summary: >-
+  An undergraduate introduction to data science for civil and transportation engineering, covering
+  transportation big data, core machine learning methods, and applications such as traffic state
+  prediction and human mobility pattern discovery.
 ---
 
 ### Description

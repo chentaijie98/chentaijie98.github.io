@@ -18,9 +18,11 @@
 
     <h3 class="pub__title">{{ pub.title }}</h3>
     <p class="pub__authors">{{ pub.authors }}</p>
-    <p class="pub__venue">
-      <em>{{ pub.venue }}</em>{% if pub.venue_detail %}, {{ pub.venue_detail }}{% endif %}{% if pub.year %}, <span class="year">{{ pub.year }}</span>{% endif %}.
-    </p>
+    {% if pub.venue %}
+      <p class="pub__venue">
+        <em>{{ pub.venue }}</em>{% if pub.venue_detail %}, {{ pub.venue_detail }}{% endif %}{% if pub.year %}, <span class="year">{{ pub.year }}</span>{% endif %}.
+      </p>
+    {% endif %}
 
     {% if pub.status or pub.ranks %}
       <div class="pub__meta">

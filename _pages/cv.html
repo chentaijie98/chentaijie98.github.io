@@ -18,6 +18,9 @@ redirect_from:
     <a class="btn" href="{{ base_path }}/files/CV-Taijie-Chen.pdf" target="_blank" rel="noopener">
       <i class="fas fa-file-pdf" aria-hidden="true"></i> Download PDF
     </a>
+    <a class="btn" href="{{ base_path }}/files/CV-Taijie-Chen-CN.pdf" target="_blank" rel="noopener" lang="zh">
+      <i class="fas fa-file-pdf" aria-hidden="true"></i> 中文简历
+    </a>
   </p>
 </header>
 
@@ -80,9 +83,11 @@ redirect_from:
             <li>
               <p class="block__title">{{ pub.title }}</p>
               <p class="block__sub">{{ pub.authors }}</p>
-              <p class="block__sub">
-                <em>{{ pub.venue }}</em>{% if pub.venue_detail %}, {{ pub.venue_detail }}{% endif %}{% if pub.year %}, {{ pub.year }}{% endif %}.
-              </p>
+              {% if pub.venue %}
+                <p class="block__sub">
+                  <em>{{ pub.venue }}</em>{% if pub.venue_detail %}, {{ pub.venue_detail }}{% endif %}{% if pub.year %}, {{ pub.year }}{% endif %}.
+                </p>
+              {% endif %}
               {% if pub.status or pub.ranks %}
                 <div class="pub__meta">
                   {% if pub.status %}<span class="status status--review">{{ pub.status }}</span>{% endif %}

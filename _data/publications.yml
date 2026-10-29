@@ -66,10 +66,46 @@
   authors: "Shen, Z., <strong>Chen, T.</strong>, Zhou, B., &amp; Ke, J.<sup>✉</sup>"
   venue: "Transportation Research Part E: Logistics and Transportation Review"
   venue_short: "TR Part E"
+  year: 2026
   group: decision
   kind: journal
-  status: "Major revision"
+  ranks: ["SCI-Q1 Top", "IF 8.3"]
   tags: ["Multimodal Routing", "Deep Learning", "User Preference"]
+
+- title: "Coordinated Operations of Mixed-Autonomy Ride-Hailing Fleets under Dynamic Demand"
+  authors: "<strong>Chen, T.</strong>, Wang, J., Liu, X., &amp; Ke, J.<sup>✉</sup>"
+  venue: "Transportation Research Part B: Methodological"
+  venue_short: "TR Part B"
+  group: decision
+  kind: journal
+  status: "Under review"
+  tags: ["Mixed Autonomy", "Ride-Hailing", "Fleet Operations"]
+
+- title: "Managing Curbside Parking under Urban Congestion: A Macroscopic Modeling and Pricing Framework"
+  authors: "<strong>Chen, T.</strong>, Chen, C., &amp; Geroliminis, N.<sup>✉</sup>"
+  venue_short: "Working paper"
+  group: decision
+  kind: working
+  status: "Work in progress"
+  tags: ["Curbside Management", "Macroscopic Modeling", "Pricing"]
+
+- title: "Modeling Many-to-Many Decentralized Matching in On-Demand Mobility Markets"
+  authors: "Wang, C., <strong>Chen, T.</strong>, Wang, H., &amp; Ke, J.<sup>✉</sup>"
+  venue: "Transportation Research Part C: Emerging Technologies"
+  venue_short: "TR Part C"
+  group: decision
+  kind: journal
+  status: "Under review"
+  tags: ["Decentralized Matching", "Mobility Markets"]
+
+- title: "Evaluating Spatial Equity in Electric Vehicle Charger Deployment: A Comparative Analysis of Government-Guided vs. Market-Driven Optimization Strategies"
+  authors: "He, Z., <strong>Chen, T.</strong>, Chen, C., &amp; Zhang, X.<sup>✉</sup>"
+  venue: "Transportation Research Part A: Policy and Practice"
+  venue_short: "TR Part A"
+  group: decision
+  kind: journal
+  status: "Under review"
+  tags: ["Electric Vehicles", "Charging Infrastructure", "Spatial Equity"]
 
 - title: "Addressing the Online Incremental Transport Mode Choice Prediction Problem with an LLM-Augmented Class-Incremental Learning Approach"
   authors: "<strong>Chen, T.</strong>, Shen, Z., Zhou, B., Liu, Y., Wang, S., &amp; Ke, J."
@@ -113,7 +149,7 @@
     - { label: "Code", icon: "fab fa-github", url: "https://github.com/SallyTan13/Teaching-Inspired-Prompting" }
 
 - title: "VISTA: Vision-Language Integrated Spatiotemporal Station Recommendation for Autonomous Taxi Fleets"
-  authors: "Jiang, Z., <strong>Chen, T.</strong>, Xu, J., Shen, Z., Zhou, B., &amp; Ke, J."
+  authors: "Jiang, Z., <strong>Chen, T.</strong>, Xu, J., Shen, Z., Zhou, B., &amp; Ke, J.<sup>✉</sup>"
   venue: "AAAI Conference on Artificial Intelligence (AAAI)"
   venue_short: "AAAI 2027"
   group: foundation
@@ -131,6 +167,14 @@
   tags: ["LLM Augmentation", "Bayesian Networks", "Tabular Generation"]
   links:
     - { label: "arXiv", icon: "ai ai-arxiv", url: "https://arxiv.org/abs/2608.01879" }
+
+- title: "SAFA-TTT: Support-Aware Fast-Weight Admission for Test-Time Training"
+  authors: "<strong>Chen, T.</strong>, Liang, K., Cui, Y., Kai, S., Ke, J.<sup>✉</sup>, &amp; Yuan, M."
+  venue_short: "Working paper"
+  group: foundation
+  kind: working
+  status: "Work in progress"
+  tags: ["Test-Time Training", "Fast Weights"]
 
 - title: "To Grab or Not to Grab? Revealing Determinants of Drivers' Willingness to Grab Orders under the Broadcasting Mode"
   authors: "<strong>Chen, T.</strong>, Liang, J., Zhao, Y.<sup>✉</sup>, &amp; Ke, J."
@@ -166,9 +210,10 @@
 
 - title: "SMARTSim: Scalable Multimodal AI-Friendly Rapid Transportation Simulator"
   authors: "Wang, J., <strong>Chen, T.</strong>, &amp; Ke, J.<sup>✉</sup>"
-  venue: "Engineering Management"
-  venue_short: "Preprint"
+  venue: "Engineering Management (formerly Frontiers of Engineering Management)"
+  venue_short: "Eng. Manag."
   group: simulation
   kind: journal
-  status: "Major revision"
+  status: "Accepted"
+  ranks: ["CAS Q1 Top", "IF 9.8"]
   tags: ["Simulation", "Digital Twin", "Multimodal Transport"]
